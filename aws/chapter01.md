@@ -1,6 +1,6 @@
 ## System Operations
 ### What's Sys Ops
-![system operations](./photo/sys_ops.png)
+![system operations](ref/sys_ops.png)
 
 System Operations includes, but is not limited to, the following areas: 
 - Network configuration and management
@@ -11,7 +11,7 @@ System Operations includes, but is not limited to, the following areas:
 - Security (AWS)
 
 ## Sys Ops Activities
-![System Ops Activities](./photo/sys_ops_activities.png)
+![System Ops Activities](ref/sys_ops_activities.png)
 
 When we talk about system operations, we are specifically referring to the following activities.
 
