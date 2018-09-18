@@ -1,2 +1,3 @@
-# technotes
-technical notes
+# Technical Notes
+
+* [AWS](aws/README.md)
