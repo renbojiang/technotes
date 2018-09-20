@@ -9,6 +9,7 @@
 ![Service Stack](ref/service_stack.png)
 
 ## Action in AWS
+
 ![Deploy website 01](ref/action_in_aws_01.png)
 
 ![Deploy website 02](ref/action_in_aws_02.png)
@@ -24,3 +25,7 @@
 ![Deploy website 07](ref/action_in_aws_07.png)
 
 ![Deploy website 08](ref/action_in_aws_08.png)
+
+## Scope of AWS Services
+
+![Scope of services](ref/services_scope.png)
