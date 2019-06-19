@@ -1,7 +1,8 @@
 # AWS - CI On Boarding
 
 ## Guidelines
-
+1. Apply tag `adsk:moniker` tag (value is `ACADCI-C-UW2`) to all resources you created in MCP VPC.
+more details about togging policy: https://wiki.autodesk.com/display/DOJO/Cloud+Resource+Tagging+Policy
 
 
 ## References
@@ -13,5 +14,5 @@
 - [Security Roles](https://wiki.autodesk.com/display/DOJO/Integrated+Account+Security+Roles)
 - [Getting Started on Vault](https://wiki.autodesk.com/display/DOJO/Getting+Started+on+HCVault#tab-HC+Vault+CLI)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODA5OTc4NjYsODc5MjIwNjY2XX0=
+eyJoaXN0b3J5IjpbNzQyNzI5ODYsODc5MjIwNjY2XX0=
 -->
