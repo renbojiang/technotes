@@ -20,7 +20,9 @@ more details about togging policy:
 
 
 ## MCP VPC
-- One VPC
+- VPC
+	- IPv4 CIDR: 10.117.192.0/21
+	- 
 - Security Group
 	- Default: no inbound/outbound rule
 	- ACADCI-dev_Dev_Base_Linux_SG
@@ -31,7 +33,7 @@ more details about togging policy:
 		- outbound: port range listed
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTg1ODE2OTgsOTgxNDQ2Mjk1LDk5MD
-k5Nzk5NCwtMjA3NDY5NTQwLC04MzIxNDU2NjgsMTc2MzE0NDg3
-Niw3NDI3Mjk4Niw4NzkyMjA2NjZdfQ==
+eyJoaXN0b3J5IjpbOTA3ODM3NTkxLDk4MTQ0NjI5NSw5OTA5OT
+c5OTQsLTIwNzQ2OTU0MCwtODMyMTQ1NjY4LDE3NjMxNDQ4NzYs
+NzQyNzI5ODYsODc5MjIwNjY2XX0=
 -->
