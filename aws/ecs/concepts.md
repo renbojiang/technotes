@@ -23,6 +23,7 @@ Description
 ### [NAT Gateway](https://docs.aws.amazon.com/vpc/latest/userguide/vpc-nat-gateway.html)
 
 
+
 ### [Security Groups](https://docs.aws.amazon.com/vpc/latest/userguide/VPC_SecurityGroups.html)
 Description
 >A _security group_ acts as a virtual firewall for your instance to control inbound and outbound traffic. When you launch an instance in a VPC, you can assign up to five security groups to the instance. Security groups act at the instance level, not the subnet level.
@@ -46,8 +47,8 @@ AWS Help Doc:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0ODc1MTExOCwtMTk4NDY2MjE0NSwxMD
-AzNjE5MzQ5LDE0Mjc4ODk2OTEsNTQ1NjExMzc4LDE5NjU4MTMw
-MSwxODg5NDc0NjYzLDIwNDkwMjY2MTEsMTI5OTEzMDM5Niw1OD
-k1OTUxOTVdfQ==
+eyJoaXN0b3J5IjpbNzYwNDE1OTY4LDE2NDg3NTExMTgsLTE5OD
+Q2NjIxNDUsMTAwMzYxOTM0OSwxNDI3ODg5NjkxLDU0NTYxMTM3
+OCwxOTY1ODEzMDEsMTg4OTQ3NDY2MywyMDQ5MDI2NjExLDEyOT
+kxMzAzOTYsNTg5NTk1MTk1XX0=
 -->
