@@ -24,7 +24,7 @@ more details about togging policy:
 	- IPv4 CIDR: 10.117.192.0/21
 	- DHCP Options set:
 		- domain-name-servers=AmazonProvidedDNS
-		- 
+		- domain-name=us-west-2.compute.internal
 - Security Group
 	- Default: no inbound/outbound rule
 	- ACADCI-dev_Dev_Base_Linux_SG
@@ -35,7 +35,7 @@ more details about togging policy:
 		- outbound: port range listed
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzYyMTA5OTI0LDkwNzgzNzU5MSw5ODE0ND
-YyOTUsOTkwOTk3OTk0LC0yMDc0Njk1NDAsLTgzMjE0NTY2OCwx
-NzYzMTQ0ODc2LDc0MjcyOTg2LDg3OTIyMDY2Nl19
+eyJoaXN0b3J5IjpbLTExOTUzMzg3ODgsOTA3ODM3NTkxLDk4MT
+Q0NjI5NSw5OTA5OTc5OTQsLTIwNzQ2OTU0MCwtODMyMTQ1NjY4
+LDE3NjMxNDQ4NzYsNzQyNzI5ODYsODc5MjIwNjY2XX0=
 -->
