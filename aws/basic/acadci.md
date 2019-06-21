@@ -9,7 +9,8 @@
 1. Apply tag `adsk:moniker` tag (value is `ACADCI-C-UW2`) to all resources you created in MCP VPC.
 more details about togging policy: 
 
-
+2. add ```10.35.136.250 git.autodesk.com``` to ```/etc/hosts```
+3. 
 ## References
 
 ### Autodesk Wiki
@@ -17,7 +18,7 @@ more details about togging policy:
 
 - [Getting Started on Vault](https://wiki.autodesk.com/display/DOJO/Getting+Started+on+HCVault#tab-HC+Vault+CLI)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTkwOTk3OTk0LC0yMDc0Njk1NDAsLTgzMj
-E0NTY2OCwxNzYzMTQ0ODc2LDc0MjcyOTg2LDg3OTIyMDY2Nl19
-
+eyJoaXN0b3J5IjpbOTgxNDQ2Mjk1LDk5MDk5Nzk5NCwtMjA3ND
+Y5NTQwLC04MzIxNDU2NjgsMTc2MzE0NDg3Niw3NDI3Mjk4Niw4
+NzkyMjA2NjZdfQ==
 -->
