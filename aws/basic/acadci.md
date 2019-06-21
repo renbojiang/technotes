@@ -19,10 +19,15 @@ more details about togging policy:
 - [Getting Started on Vault](https://wiki.autodesk.com/display/DOJO/Getting+Started+on+HCVault#tab-HC+Vault+CLI)
 
 
-MCP VPC
-- 
+## MCP VPC
+- One VPC
+- Security Group
+	- Default: no inbound/outbound rule
+	- ACADCI-dev_Dev_Base_Linux_SG
+		- inbound: 22
+		- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExNzczMDQ0Myw5ODE0NDYyOTUsOTkwOT
-k3OTk0LC0yMDc0Njk1NDAsLTgzMjE0NTY2OCwxNzYzMTQ0ODc2
-LDc0MjcyOTg2LDg3OTIyMDY2Nl19
+eyJoaXN0b3J5IjpbLTEyOTQ3ODcxMDYsOTgxNDQ2Mjk1LDk5MD
+k5Nzk5NCwtMjA3NDY5NTQwLC04MzIxNDU2NjgsMTc2MzE0NDg3
+Niw3NDI3Mjk4Niw4NzkyMjA2NjZdfQ==
 -->
