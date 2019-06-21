@@ -8,7 +8,9 @@ Description:
 
 ### [Security Groups](https://docs.aws.amazon.com/vpc/latest/userguide/VPC_SecurityGroups.html)
 
+
 ### [Internet Gateways](https://docs.aws.amazon.com/vpc/latest/userguide/VPC_Internet_Gateway.html)
+
 **Definition**: 
 An internet gateway is a horizontally scaled, redundant, and highly available VPC component that allows communication between instances in your VPC and the internet. It therefore imposes no availability risks or bandwidth constraints on your network traffic.
 
@@ -24,7 +26,7 @@ AWS Help Doc:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxMTg5ODMwNiw1NDU2MTEzNzgsMTk2NT
-gxMzAxLDE4ODk0NzQ2NjMsMjA0OTAyNjYxMSwxMjk5MTMwMzk2
-LDU4OTU5NTE5NV19
+eyJoaXN0b3J5IjpbLTE5NzU4NTU2MTgsNTQ1NjExMzc4LDE5Nj
+U4MTMwMSwxODg5NDc0NjYzLDIwNDkwMjY2MTEsMTI5OTEzMDM5
+Niw1ODk1OTUxOTVdfQ==
 -->
