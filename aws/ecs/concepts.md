@@ -15,6 +15,8 @@ Amazon DNS Server
 >
 >When you launch an instance into a VPC, we provide the instance with a private DNS hostname, and a public DNS hostname if the instance receives a public IPv4 address. If  `domain-name-servers`  in your DHCP options is set to AmazonProvidedDNS, the public DNS hostname takes the form  ``ec2-_`public-ipv4-address`_.compute-1.amazonaws.com``  for the us-east-1 region, and  ``ec2-_`public-ipv4-address`_._`region`_.compute.amazonaws.com``  for other regions. The private hostname takes the form  ``ip-_`private-ipv4-address`_.ec2.internal``  for the us-east-1 region, and  ``ip-_`private-ipv4-address`_._`region`_.compute.internal``  for other regions. To change these to custom DNS hostnames, you must set  `domain-name-servers`  to a custom DNS server.
 
+### [Route Tables](https://docs.aws.amazon.com/vpc/latest/userguide/VPC_Route_Tables.html)
+
 
 ### [Security Groups](https://docs.aws.amazon.com/vpc/latest/userguide/VPC_SecurityGroups.html)
 Description
@@ -39,7 +41,7 @@ AWS Help Doc:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3NTA2MDMxMywxMDAzNjE5MzQ5LDE0Mj
+eyJoaXN0b3J5IjpbMTk4Mjc3NDM0MCwxMDAzNjE5MzQ5LDE0Mj
 c4ODk2OTEsNTQ1NjExMzc4LDE5NjU4MTMwMSwxODg5NDc0NjYz
 LDIwNDkwMjY2MTEsMTI5OTEzMDM5Niw1ODk1OTUxOTVdfQ==
 -->
