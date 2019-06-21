@@ -7,7 +7,8 @@ Description:
 >An elastic network interface (referred to as a  _network interface_  in this documentation) is a logical networking component in a VPC that represents a virtual network card.
 
 ### [Security Groups](https://docs.aws.amazon.com/vpc/latest/userguide/VPC_SecurityGroups.html)
-
+Description
+>
 
 ### [Internet Gateways](https://docs.aws.amazon.com/vpc/latest/userguide/VPC_Internet_Gateway.html)
 
@@ -26,7 +27,7 @@ AWS Help Doc:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzU4NTU2MTgsNTQ1NjExMzc4LDE5Nj
+eyJoaXN0b3J5IjpbLTEwMzE0ODU3MTQsNTQ1NjExMzc4LDE5Nj
 U4MTMwMSwxODg5NDc0NjYzLDIwNDkwMjY2MTEsMTI5OTEzMDM5
 Niw1ODk1OTUxOTVdfQ==
 -->
