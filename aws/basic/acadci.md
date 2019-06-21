@@ -17,8 +17,12 @@ more details about togging policy:
 - [AWS Resource Management Guidelines](https://wiki.autodesk.com/display/DOJO/AWS+Resource+Management+Guidelines)
 
 - [Getting Started on Vault](https://wiki.autodesk.com/display/DOJO/Getting+Started+on+HCVault#tab-HC+Vault+CLI)
+
+
+MCP VPC
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTgxNDQ2Mjk1LDk5MDk5Nzk5NCwtMjA3ND
-Y5NTQwLC04MzIxNDU2NjgsMTc2MzE0NDg3Niw3NDI3Mjk4Niw4
-NzkyMjA2NjZdfQ==
+eyJoaXN0b3J5IjpbMTExNzczMDQ0Myw5ODE0NDYyOTUsOTkwOT
+k3OTk0LC0yMDc0Njk1NDAsLTgzMjE0NTY2OCwxNzYzMTQ0ODc2
+LDc0MjcyOTg2LDg3OTIyMDY2Nl19
 -->
