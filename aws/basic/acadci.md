@@ -22,7 +22,9 @@ more details about togging policy:
 ## MCP VPC
 - VPC
 	- IPv4 CIDR: 10.117.192.0/21
-	- 
+	- DHCP Options set:
+		- domain-name-servers=AmazonProvidedDNS
+		- 
 - Security Group
 	- Default: no inbound/outbound rule
 	- ACADCI-dev_Dev_Base_Linux_SG
@@ -33,7 +35,7 @@ more details about togging policy:
 		- outbound: port range listed
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTA3ODM3NTkxLDk4MTQ0NjI5NSw5OTA5OT
-c5OTQsLTIwNzQ2OTU0MCwtODMyMTQ1NjY4LDE3NjMxNDQ4NzYs
-NzQyNzI5ODYsODc5MjIwNjY2XX0=
+eyJoaXN0b3J5IjpbNzYyMTA5OTI0LDkwNzgzNzU5MSw5ODE0ND
+YyOTUsOTkwOTk3OTk0LC0yMDc0Njk1NDAsLTgzMjE0NTY2OCwx
+NzYzMTQ0ODc2LDc0MjcyOTg2LDg3OTIyMDY2Nl19
 -->
