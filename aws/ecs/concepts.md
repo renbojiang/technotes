@@ -20,6 +20,7 @@ Description
 >A  _route table_  contains a set of rules, called  _routes_, that are used to determine where network traffic is directed.
 >Each subnet in your VPC must be associated with a route table; the table controls the routing for the subnet. A subnet can only be associated with one route table at a time, but you can associate multiple subnets with the same route table.
 
+
 ### [Security Groups](https://docs.aws.amazon.com/vpc/latest/userguide/VPC_SecurityGroups.html)
 Description
 >A _security group_ acts as a virtual firewall for your instance to control inbound and outbound traffic. When you launch an instance in a VPC, you can assign up to five security groups to the instance. Security groups act at the instance level, not the subnet level.
@@ -43,7 +44,8 @@ AWS Help Doc:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODQ2NjIxNDUsMTAwMzYxOTM0OSwxND
-I3ODg5NjkxLDU0NTYxMTM3OCwxOTY1ODEzMDEsMTg4OTQ3NDY2
-MywyMDQ5MDI2NjExLDEyOTkxMzAzOTYsNTg5NTk1MTk1XX0=
+eyJoaXN0b3J5IjpbODU4NjgxODczLC0xOTg0NjYyMTQ1LDEwMD
+M2MTkzNDksMTQyNzg4OTY5MSw1NDU2MTEzNzgsMTk2NTgxMzAx
+LDE4ODk0NzQ2NjMsMjA0OTAyNjYxMSwxMjk5MTMwMzk2LDU4OT
+U5NTE5NV19
 -->
