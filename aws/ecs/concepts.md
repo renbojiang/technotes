@@ -2,6 +2,8 @@
 # Basic Concepts
 
 ## VPC Networking Components
+### [Elastic Network Interfaces](https://docs.aws.amazon.com/vpc/latest/userguide/VPC_ElasticNetworkInterfaces.html)
+
 
 ### [Internet Gateways](https://docs.aws.amazon.com/vpc/latest/userguide/VPC_Internet_Gateway.html)
 **Definition**: 
@@ -19,6 +21,6 @@ AWS Help Doc:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODk5ODMwOTc3LDIwNDkwMjY2MTEsMTI5OT
-EzMDM5Niw1ODk1OTUxOTVdfQ==
+eyJoaXN0b3J5IjpbMTg4OTQ3NDY2MywyMDQ5MDI2NjExLDEyOT
+kxMzAzOTYsNTg5NTk1MTk1XX0=
 -->
