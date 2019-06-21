@@ -25,6 +25,7 @@ more details about togging policy:
 	- DHCP Options set:
 		- domain-name-servers=AmazonProvidedDNS
 		- domain-name=us-west-2.compute.internal
+	- 
 - Security Group
 	- Default: no inbound/outbound rule
 	- ACADCI-dev_Dev_Base_Linux_SG
@@ -35,7 +36,8 @@ more details about togging policy:
 		- outbound: port range listed
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTUzMzg3ODgsOTA3ODM3NTkxLDk4MT
-Q0NjI5NSw5OTA5OTc5OTQsLTIwNzQ2OTU0MCwtODMyMTQ1NjY4
-LDE3NjMxNDQ4NzYsNzQyNzI5ODYsODc5MjIwNjY2XX0=
+eyJoaXN0b3J5IjpbLTk4NTgxNjk3LC0xMTk1MzM4Nzg4LDkwNz
+gzNzU5MSw5ODE0NDYyOTUsOTkwOTk3OTk0LC0yMDc0Njk1NDAs
+LTgzMjE0NTY2OCwxNzYzMTQ0ODc2LDc0MjcyOTg2LDg3OTIyMD
+Y2Nl19
 -->
