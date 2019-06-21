@@ -2,9 +2,10 @@
 # Basic Concepts
 
 ## VPC Networking Components
-### [Elastic Network Interfaces](https://docs.aws.amazon.com/vpc/latest/userguide/VPC_ElasticNetworkInterfaces.html)
+### [Elastic Network Interfaces](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/using-eni.html)
 Definition:
 >An elastic network interface (referred to as a  _network interface_  in this documentation) is a logical networking component in a VPC that represents a virtual network card.
+
 
 ### [Internet Gateways](https://docs.aws.amazon.com/vpc/latest/userguide/VPC_Internet_Gateway.html)
 **Definition**: 
@@ -22,6 +23,6 @@ AWS Help Doc:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDg4NDMwMTUsMTg4OTQ3NDY2MywyMDQ5MD
-I2NjExLDEyOTkxMzAzOTYsNTg5NTk1MTk1XX0=
+eyJoaXN0b3J5IjpbMTk2NTgxMzAxLDE4ODk0NzQ2NjMsMjA0OT
+AyNjYxMSwxMjk5MTMwMzk2LDU4OTU5NTE5NV19
 -->
