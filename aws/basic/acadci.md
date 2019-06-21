@@ -24,10 +24,14 @@ more details about togging policy:
 - Security Group
 	- Default: no inbound/outbound rule
 	- ACADCI-dev_Dev_Base_Linux_SG
-		- inbound: 22
-		- 
+		- inbound: 22 (SSH)
+		- outbound: port range listed
+	- ACADCI-dev_Dev_Base_Windows_SG
+		- inbound: 3389 (Remote Desktop)
+		- outbound: port range listed
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTQ3ODcxMDYsOTgxNDQ2Mjk1LDk5MD
+eyJoaXN0b3J5IjpbLTExMTg1ODE2OTgsOTgxNDQ2Mjk1LDk5MD
 k5Nzk5NCwtMjA3NDY5NTQwLC04MzIxNDU2NjgsMTc2MzE0NDg3
 Niw3NDI3Mjk4Niw4NzkyMjA2NjZdfQ==
 -->
