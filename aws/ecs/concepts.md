@@ -7,7 +7,9 @@ Description
 >An elastic network interface (referred to as a  _network interface_  in this documentation) is a logical networking component in a VPC that represents a virtual network card.
 
 ### [DHCP Options](https://docs.aws.amazon.com/vpc/latest/userguide/VPC_DHCP_Options.html)
-
+Description
+>The Dynamic Host Configuration Protocol (DHCP) provides a standard for passing configuration information to hosts on a TCP/IP network. The `options` field of a DHCP message contains the configuration parameters. Some of those parameters are the domain name, domain name server, and the netbios-node-type.
+>
 
 ### [Security Groups](https://docs.aws.amazon.com/vpc/latest/userguide/VPC_SecurityGroups.html)
 Description
@@ -32,7 +34,7 @@ AWS Help Doc:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjM5NzAxOTU4LDEwMDM2MTkzNDksMTQyNz
-g4OTY5MSw1NDU2MTEzNzgsMTk2NTgxMzAxLDE4ODk0NzQ2NjMs
-MjA0OTAyNjYxMSwxMjk5MTMwMzk2LDU4OTU5NTE5NV19
+eyJoaXN0b3J5IjpbMTI4MTUwMzIzMiwxMDAzNjE5MzQ5LDE0Mj
+c4ODk2OTEsNTQ1NjExMzc4LDE5NjU4MTMwMSwxODg5NDc0NjYz
+LDIwNDkwMjY2MTEsMTI5OTEzMDM5Niw1ODk1OTUxOTVdfQ==
 -->
