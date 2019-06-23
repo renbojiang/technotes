@@ -45,7 +45,7 @@ Description
 - to provide a target in your VPC route tables for internet-routable traffic
 - to perform network address translation (NAT) for instances that have been assigned public IPv4 addresses.
 
-**Enabling Internet Access**
+**Enabling Internet Access**  
 To enable access to or from the internet for instances in a VPC subnet, you must do the following:
 -   Attach an internet gateway to your VPC.
 -   Ensure that your subnet's route table points to the internet gateway.
@@ -58,7 +58,7 @@ AWS Help Doc:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2ODQwMTY5OSwxNDUzODM0MzAyLC0yMT
+eyJoaXN0b3J5IjpbMTI0ODk2MzYxMywxNDUzODM0MzAyLC0yMT
 A5MTMxNDgxLC02OTkyNjY0OTksNzYwNDE1OTY4LDE2NDg3NTEx
 MTgsLTE5ODQ2NjIxNDUsMTAwMzYxOTM0OSwxNDI3ODg5NjkxLD
 U0NTYxMTM3OCwxOTY1ODEzMDEsMTg4OTQ3NDY2MywyMDQ5MDI2
