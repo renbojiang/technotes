@@ -23,6 +23,7 @@ Description
 ### [NAT Gateway](https://docs.aws.amazon.com/vpc/latest/userguide/vpc-nat-gateway.html)
 Description
 > NAT: Network Address Translation. You can use a NAT device to enable instances in a private subnet to connect to the internet, but prevent the internet from initiating connections with the instances.When traffic goes to the internet, the source IPv4 address is replaced with the NAT device’s address and similarly, when the response traffic goes to those instances, the NAT device translates the address back to those instances’ private IPv4 addresses.
+>NAT devices are not supported for IPv6 traffic—use an egress-only Internet gateway instead
 
 
 ### [Security Groups](https://docs.aws.amazon.com/vpc/latest/userguide/VPC_SecurityGroups.html)
@@ -48,7 +49,7 @@ AWS Help Doc:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2NTI5NzUxOCw3NjA0MTU5NjgsMTY0OD
+eyJoaXN0b3J5IjpbLTY5OTI2NjQ5OSw3NjA0MTU5NjgsMTY0OD
 c1MTExOCwtMTk4NDY2MjE0NSwxMDAzNjE5MzQ5LDE0Mjc4ODk2
 OTEsNTQ1NjExMzc4LDE5NjU4MTMwMSwxODg5NDc0NjYzLDIwND
 kwMjY2MTEsMTI5OTEzMDM5Niw1ODk1OTUxOTVdfQ==
