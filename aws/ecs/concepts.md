@@ -35,7 +35,7 @@ Description
 ### [Internet Gateways](https://docs.aws.amazon.com/vpc/latest/userguide/VPC_Internet_Gateway.html)
 
 **Definition**: 
-An internet gateway is a horizontally scaled, redundant, and highly available VPC component that allows communication between instances in your VPC and the internet. It therefore imposes no availability risks or bandwidth constraints on your network traffic.
+>An internet gateway is a horizontally scaled, redundant, and highly available VPC component that allows communication between instances in your VPC and the internet. It therefore imposes no availability risks or bandwidth constraints on your network traffic.
 
 **Purposes**: 
 - to provide a target in your VPC route tables for internet-routable traffic
@@ -49,8 +49,9 @@ AWS Help Doc:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5OTI2NjQ5OSw3NjA0MTU5NjgsMTY0OD
-c1MTExOCwtMTk4NDY2MjE0NSwxMDAzNjE5MzQ5LDE0Mjc4ODk2
-OTEsNTQ1NjExMzc4LDE5NjU4MTMwMSwxODg5NDc0NjYzLDIwND
-kwMjY2MTEsMTI5OTEzMDM5Niw1ODk1OTUxOTVdfQ==
+eyJoaXN0b3J5IjpbLTIxMDkxMzE0ODEsLTY5OTI2NjQ5OSw3Nj
+A0MTU5NjgsMTY0ODc1MTExOCwtMTk4NDY2MjE0NSwxMDAzNjE5
+MzQ5LDE0Mjc4ODk2OTEsNTQ1NjExMzc4LDE5NjU4MTMwMSwxOD
+g5NDc0NjYzLDIwNDkwMjY2MTEsMTI5OTEzMDM5Niw1ODk1OTUx
+OTVdfQ==
 -->
