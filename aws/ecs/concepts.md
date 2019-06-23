@@ -21,7 +21,8 @@ Description
 >Each subnet in your VPC must be associated with a route table; the table controls the routing for the subnet. A subnet can only be associated with one route table at a time, but you can associate multiple subnets with the same route table.
 
 ### [NAT Gateway](https://docs.aws.amazon.com/vpc/latest/userguide/vpc-nat-gateway.html)
-
+Description
+> NAT: Network Address Translation. You can use a NAT device to enable instances in a private subnet to connect to the internet, but prevent the internet from initiating connections with the instances.When traffic goes to the internet, the source IPv4 address is replaced with the NAT device’s address and similarly, when the response traffic goes to those instances, the NAT device translates the address back to those instances’ private IPv4 addresses.
 
 
 ### [Security Groups](https://docs.aws.amazon.com/vpc/latest/userguide/VPC_SecurityGroups.html)
@@ -47,8 +48,8 @@ AWS Help Doc:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzYwNDE1OTY4LDE2NDg3NTExMTgsLTE5OD
-Q2NjIxNDUsMTAwMzYxOTM0OSwxNDI3ODg5NjkxLDU0NTYxMTM3
-OCwxOTY1ODEzMDEsMTg4OTQ3NDY2MywyMDQ5MDI2NjExLDEyOT
-kxMzAzOTYsNTg5NTk1MTk1XX0=
+eyJoaXN0b3J5IjpbLTQ2NTI5NzUxOCw3NjA0MTU5NjgsMTY0OD
+c1MTExOCwtMTk4NDY2MjE0NSwxMDAzNjE5MzQ5LDE0Mjc4ODk2
+OTEsNTQ1NjExMzc4LDE5NjU4MTMwMSwxODg5NDc0NjYzLDIwND
+kwMjY2MTEsMTI5OTEzMDM5Niw1ODk1OTUxOTVdfQ==
 -->
