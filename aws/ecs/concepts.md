@@ -14,6 +14,7 @@ Description
 One way to protect your VPC is to leave the main route table in its original default state (with only the local route), and explicitly associate each new subnet you create with one of the custom route tables you've created.
 
 
+
 ### [DHCP Options](https://docs.aws.amazon.com/vpc/latest/userguide/VPC_DHCP_Options.html)
 Description
 >The Dynamic Host Configuration Protocol (DHCP) provides a standard for passing configuration information to hosts on a TCP/IP network. The `options` field of a DHCP message contains the configuration parameters. Some of those parameters are the domain name, domain name server, and the netbios-node-type.
@@ -66,7 +67,7 @@ AWS Help Doc:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDE1NTMzNDc4LC0xOTU5MjgyMTQzLDEyND
+eyJoaXN0b3J5IjpbMTAxNDAzNTQwLC0xOTU5MjgyMTQzLDEyND
 g5NjM2MTMsMTQ1MzgzNDMwMiwtMjEwOTEzMTQ4MSwtNjk5MjY2
 NDk5LDc2MDQxNTk2OCwxNjQ4NzUxMTE4LC0xOTg0NjYyMTQ1LD
 EwMDM2MTkzNDksMTQyNzg4OTY5MSw1NDU2MTEzNzgsMTk2NTgx
