@@ -11,6 +11,8 @@ Description
 >A  _route table_  contains a set of rules, called  _routes_, that are used to determine where network traffic is directed.
 >Each subnet in your VPC must be associated with a route table; the table controls the routing for the subnet. A subnet can only be associated with one route table at a time, but you can associate multiple subnets with the same route table.
 
+One way to protect your VPC is to leave the main route table in its original default state (with only the local route), and explicitly associate each new subnet you create with one of the custom route tables you've created.
+
 
 ### [DHCP Options](https://docs.aws.amazon.com/vpc/latest/userguide/VPC_DHCP_Options.html)
 Description
@@ -64,10 +66,10 @@ AWS Help Doc:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTkyODIxNDMsMTI0ODk2MzYxMywxND
-UzODM0MzAyLC0yMTA5MTMxNDgxLC02OTkyNjY0OTksNzYwNDE1
-OTY4LDE2NDg3NTExMTgsLTE5ODQ2NjIxNDUsMTAwMzYxOTM0OS
-wxNDI3ODg5NjkxLDU0NTYxMTM3OCwxOTY1ODEzMDEsMTg4OTQ3
-NDY2MywyMDQ5MDI2NjExLDEyOTkxMzAzOTYsNTg5NTk1MTk1XX
-0=
+eyJoaXN0b3J5IjpbNDE1NTMzNDc4LC0xOTU5MjgyMTQzLDEyND
+g5NjM2MTMsMTQ1MzgzNDMwMiwtMjEwOTEzMTQ4MSwtNjk5MjY2
+NDk5LDc2MDQxNTk2OCwxNjQ4NzUxMTE4LC0xOTg0NjYyMTQ1LD
+EwMDM2MTkzNDksMTQyNzg4OTY5MSw1NDU2MTEzNzgsMTk2NTgx
+MzAxLDE4ODk0NzQ2NjMsMjA0OTAyNjYxMSwxMjk5MTMwMzk2LD
+U4OTU5NTE5NV19
 -->
