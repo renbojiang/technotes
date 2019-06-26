@@ -67,15 +67,17 @@ AWS Help Doc:
 
 
 
+- persistent disk volume (check the content of the disk)
+	- support multiple buildbot masters
 - 3 stacks running on Fargate
 - DNS naming binding (acadci.autodesk.com)
-- persistent disk volume 
+
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTY5OTEzMzcsMTAxNDAzNTQwLC0xOT
-U5MjgyMTQzLDEyNDg5NjM2MTMsMTQ1MzgzNDMwMiwtMjEwOTEz
-MTQ4MSwtNjk5MjY2NDk5LDc2MDQxNTk2OCwxNjQ4NzUxMTE4LC
-0xOTg0NjYyMTQ1LDEwMDM2MTkzNDksMTQyNzg4OTY5MSw1NDU2
-MTEzNzgsMTk2NTgxMzAxLDE4ODk0NzQ2NjMsMjA0OTAyNjYxMS
-wxMjk5MTMwMzk2LDU4OTU5NTE5NV19
+eyJoaXN0b3J5IjpbLTY3OTc2MDMzMywxMDE0MDM1NDAsLTE5NT
+kyODIxNDMsMTI0ODk2MzYxMywxNDUzODM0MzAyLC0yMTA5MTMx
+NDgxLC02OTkyNjY0OTksNzYwNDE1OTY4LDE2NDg3NTExMTgsLT
+E5ODQ2NjIxNDUsMTAwMzYxOTM0OSwxNDI3ODg5NjkxLDU0NTYx
+MTM3OCwxOTY1ODEzMDEsMTg4OTQ3NDY2MywyMDQ5MDI2NjExLD
+EyOTkxMzAzOTYsNTg5NTk1MTk1XX0=
 -->
