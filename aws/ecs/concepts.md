@@ -66,11 +66,16 @@ AWS Help Doc:
 [https://docs.aws.amazon.com/AmazonECS/latest/developerguide/Welcome.html](https://docs.aws.amazon.com/AmazonECS/latest/developerguide/Welcome.html)
 
 
+
+- 3 stacks running on Fargate
+- DNS naming binding (acadci.autodesk.com)
+- persistent disk volume 
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxNDAzNTQwLC0xOTU5MjgyMTQzLDEyND
-g5NjM2MTMsMTQ1MzgzNDMwMiwtMjEwOTEzMTQ4MSwtNjk5MjY2
-NDk5LDc2MDQxNTk2OCwxNjQ4NzUxMTE4LC0xOTg0NjYyMTQ1LD
-EwMDM2MTkzNDksMTQyNzg4OTY5MSw1NDU2MTEzNzgsMTk2NTgx
-MzAxLDE4ODk0NzQ2NjMsMjA0OTAyNjYxMSwxMjk5MTMwMzk2LD
-U4OTU5NTE5NV19
+eyJoaXN0b3J5IjpbLTE0OTY5OTEzMzcsMTAxNDAzNTQwLC0xOT
+U5MjgyMTQzLDEyNDg5NjM2MTMsMTQ1MzgzNDMwMiwtMjEwOTEz
+MTQ4MSwtNjk5MjY2NDk5LDc2MDQxNTk2OCwxNjQ4NzUxMTE4LC
+0xOTg0NjYyMTQ1LDEwMDM2MTkzNDksMTQyNzg4OTY5MSw1NDU2
+MTEzNzgsMTk2NTgxMzAxLDE4ODk0NzQ2NjMsMjA0OTAyNjYxMS
+wxMjk5MTMwMzk2LDU4OTU5NTE5NV19
 -->
