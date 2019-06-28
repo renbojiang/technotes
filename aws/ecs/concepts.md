@@ -18,6 +18,8 @@ An Amazon ECS deployment type determines the deployment strategy that your servi
 -   [Rolling Update](https://docs.aws.amazon.com/AmazonECS/latest/developerguide/deployment-type-ecs.html)
 -   [Blue/Green Deployment with CodeDeploy](https://docs.aws.amazon.com/AmazonECS/latest/developerguide/deployment-type-bluegreen.html)
 -   [External Deployment](https://docs.aws.amazon.com/AmazonECS/latest/developerguide/deployment-type-external.html)
+
+
 ## References
 [AWS ECS](https://docs.aws.amazon.com/AmazonECS/latest/developerguide/Welcome.html)
 
@@ -27,11 +29,11 @@ An Amazon ECS deployment type determines the deployment strategy that your servi
 - [https://www.janbasktraining.com/blog/what-is-aws-fargate/](https://www.janbasktraining.com/blog/what-is-aws-fargate/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzYzNTk5NDgsMTE1NjkwNTA2MSwtMT
-M0Mzg4ODMyNywxMzUzODE5ODEzLC02Nzk3NjAzMzMsMTAxNDAz
-NTQwLC0xOTU5MjgyMTQzLDEyNDg5NjM2MTMsMTQ1MzgzNDMwMi
-wtMjEwOTEzMTQ4MSwtNjk5MjY2NDk5LDc2MDQxNTk2OCwxNjQ4
-NzUxMTE4LC0xOTg0NjYyMTQ1LDEwMDM2MTkzNDksMTQyNzg4OT
-Y5MSw1NDU2MTEzNzgsMTk2NTgxMzAxLDE4ODk0NzQ2NjMsMjA0
-OTAyNjYxMV19
+eyJoaXN0b3J5IjpbMTMxNjA3OTA1NiwxMTU2OTA1MDYxLC0xMz
+QzODg4MzI3LDEzNTM4MTk4MTMsLTY3OTc2MDMzMywxMDE0MDM1
+NDAsLTE5NTkyODIxNDMsMTI0ODk2MzYxMywxNDUzODM0MzAyLC
+0yMTA5MTMxNDgxLC02OTkyNjY0OTksNzYwNDE1OTY4LDE2NDg3
+NTExMTgsLTE5ODQ2NjIxNDUsMTAwMzYxOTM0OSwxNDI3ODg5Nj
+kxLDU0NTYxMTM3OCwxOTY1ODEzMDEsMTg4OTQ3NDY2MywyMDQ5
+MDI2NjExXX0=
 -->
