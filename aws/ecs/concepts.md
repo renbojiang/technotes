@@ -28,12 +28,15 @@ An Amazon ECS deployment type determines the deployment strategy that your servi
 - [Pricing](https://containersonaws.com/introduction/ec2-or-aws-fargate/)
 - [https://www.janbasktraining.com/blog/what-is-aws-fargate/](https://www.janbasktraining.com/blog/what-is-aws-fargate/)
 
+
+[https://www.youtube.com/watch?v=fMGd9IUaotE](https://www.youtube.com/watch?v=fMGd9IUaotE)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxNjA3OTA1NiwxMTU2OTA1MDYxLC0xMz
-QzODg4MzI3LDEzNTM4MTk4MTMsLTY3OTc2MDMzMywxMDE0MDM1
-NDAsLTE5NTkyODIxNDMsMTI0ODk2MzYxMywxNDUzODM0MzAyLC
-0yMTA5MTMxNDgxLC02OTkyNjY0OTksNzYwNDE1OTY4LDE2NDg3
-NTExMTgsLTE5ODQ2NjIxNDUsMTAwMzYxOTM0OSwxNDI3ODg5Nj
-kxLDU0NTYxMTM3OCwxOTY1ODEzMDEsMTg4OTQ3NDY2MywyMDQ5
-MDI2NjExXX0=
+eyJoaXN0b3J5IjpbLTY1MzE1NDIwNywxMzE2MDc5MDU2LDExNT
+Y5MDUwNjEsLTEzNDM4ODgzMjcsMTM1MzgxOTgxMywtNjc5NzYw
+MzMzLDEwMTQwMzU0MCwtMTk1OTI4MjE0MywxMjQ4OTYzNjEzLD
+E0NTM4MzQzMDIsLTIxMDkxMzE0ODEsLTY5OTI2NjQ5OSw3NjA0
+MTU5NjgsMTY0ODc1MTExOCwtMTk4NDY2MjE0NSwxMDAzNjE5Mz
+Q5LDE0Mjc4ODk2OTEsNTQ1NjExMzc4LDE5NjU4MTMwMSwxODg5
+NDc0NjYzXX0=
 -->
