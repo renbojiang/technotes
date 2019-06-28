@@ -10,12 +10,16 @@
 Otherwise, you should define your containers in separate tasks definitions so that you can scale, provision, and deprovision them separately.
 
 
+## References
+- [Fargate vs. EC2](https://cloudonaut.io/ecs-vs-fargate-whats-the-difference/)
+- 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1MzgxOTgxMywtNjc5NzYwMzMzLDEwMT
-QwMzU0MCwtMTk1OTI4MjE0MywxMjQ4OTYzNjEzLDE0NTM4MzQz
-MDIsLTIxMDkxMzE0ODEsLTY5OTI2NjQ5OSw3NjA0MTU5NjgsMT
-Y0ODc1MTExOCwtMTk4NDY2MjE0NSwxMDAzNjE5MzQ5LDE0Mjc4
-ODk2OTEsNTQ1NjExMzc4LDE5NjU4MTMwMSwxODg5NDc0NjYzLD
-IwNDkwMjY2MTEsMTI5OTEzMDM5Niw1ODk1OTUxOTVdfQ==
+eyJoaXN0b3J5IjpbLTIwOTk0NjM2NjAsMTM1MzgxOTgxMywtNj
+c5NzYwMzMzLDEwMTQwMzU0MCwtMTk1OTI4MjE0MywxMjQ4OTYz
+NjEzLDE0NTM4MzQzMDIsLTIxMDkxMzE0ODEsLTY5OTI2NjQ5OS
+w3NjA0MTU5NjgsMTY0ODc1MTExOCwtMTk4NDY2MjE0NSwxMDAz
+NjE5MzQ5LDE0Mjc4ODk2OTEsNTQ1NjExMzc4LDE5NjU4MTMwMS
+wxODg5NDc0NjYzLDIwNDkwMjY2MTEsMTI5OTEzMDM5Niw1ODk1
+OTUxOTVdfQ==
 -->
