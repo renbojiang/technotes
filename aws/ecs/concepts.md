@@ -12,15 +12,16 @@ Otherwise, you should define your containers in separate tasks definitions so th
 
 ## References
 ### Fargate vs. EC2
-- [Di](https://cloudonaut.io/ecs-vs-fargate-whats-the-difference/)
+- [Difference](https://cloudonaut.io/ecs-vs-fargate-whats-the-difference/)
+- [Pricing](https://containersonaws.com/introduction/ec2-or-aws-fargate/)
 - 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzEyMjcwODU0LDEzNTM4MTk4MTMsLTY3OT
-c2MDMzMywxMDE0MDM1NDAsLTE5NTkyODIxNDMsMTI0ODk2MzYx
-MywxNDUzODM0MzAyLC0yMTA5MTMxNDgxLC02OTkyNjY0OTksNz
-YwNDE1OTY4LDE2NDg3NTExMTgsLTE5ODQ2NjIxNDUsMTAwMzYx
-OTM0OSwxNDI3ODg5NjkxLDU0NTYxMTM3OCwxOTY1ODEzMDEsMT
-g4OTQ3NDY2MywyMDQ5MDI2NjExLDEyOTkxMzAzOTYsNTg5NTk1
-MTk1XX0=
+eyJoaXN0b3J5IjpbLTU4NDY5ODc2NiwxMzUzODE5ODEzLC02Nz
+k3NjAzMzMsMTAxNDAzNTQwLC0xOTU5MjgyMTQzLDEyNDg5NjM2
+MTMsMTQ1MzgzNDMwMiwtMjEwOTEzMTQ4MSwtNjk5MjY2NDk5LD
+c2MDQxNTk2OCwxNjQ4NzUxMTE4LC0xOTg0NjYyMTQ1LDEwMDM2
+MTkzNDksMTQyNzg4OTY5MSw1NDU2MTEzNzgsMTk2NTgxMzAxLD
+E4ODk0NzQ2NjMsMjA0OTAyNjYxMSwxMjk5MTMwMzk2LDU4OTU5
+NTE5NV19
 -->
