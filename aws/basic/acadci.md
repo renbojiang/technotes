@@ -10,7 +10,7 @@
 more details about togging policy: 
 
 2. add ```10.35.136.250 git.autodesk.com``` to ```/etc/hosts```
-3. 
+
 ## References
 
 ### Autodesk Wiki
@@ -36,8 +36,8 @@ more details about togging policy:
 		- outbound: port range listed
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4NTgxNjk3LC0xMTk1MzM4Nzg4LDkwNz
-gzNzU5MSw5ODE0NDYyOTUsOTkwOTk3OTk0LC0yMDc0Njk1NDAs
-LTgzMjE0NTY2OCwxNzYzMTQ0ODc2LDc0MjcyOTg2LDg3OTIyMD
-Y2Nl19
+eyJoaXN0b3J5IjpbOTk2NzY1NzkyLC05ODU4MTY5NywtMTE5NT
+MzODc4OCw5MDc4Mzc1OTEsOTgxNDQ2Mjk1LDk5MDk5Nzk5NCwt
+MjA3NDY5NTQwLC04MzIxNDU2NjgsMTc2MzE0NDg3Niw3NDI3Mj
+k4Niw4NzkyMjA2NjZdfQ==
 -->
