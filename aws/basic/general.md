@@ -11,6 +11,7 @@ sudo reboot
 ```bash
 sudo echo "10.35.136.250 git.autodesk.com">>/etc/hosts
 ```
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzMzgwMDAxMF19
+eyJoaXN0b3J5IjpbLTE5OTA1NDU2NzJdfQ==
 -->
