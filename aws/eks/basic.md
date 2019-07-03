@@ -7,7 +7,8 @@
 
 [https://docs.aws.amazon.com/eks/latest/userguide/add-user-role.html](https://docs.aws.amazon.com/eks/latest/userguide/add-user-role.html)
 
-
+[https://www.youtube.com/watch?v=6H5sXQoJiso](https://www.youtube.com/watch?v=6H5sXQoJiso)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzIwMjIyNjJdfQ==
+eyJoaXN0b3J5IjpbLTEzMjg3NjA5NzUsLTIwNzIwMjIyNjJdfQ
+==
 -->
