@@ -10,7 +10,10 @@
 [https://www.youtube.com/watch?v=6H5sXQoJiso](https://www.youtube.com/watch?v=6H5sXQoJiso)
 
 [https://github.com/Kurento/Kubernetes/blob/master/nginx-deployment-service.yaml](https://github.com/Kurento/Kubernetes/blob/master/nginx-deployment-service.yaml)
+
+[https://eksworkshop.com/introduction/eks/eks_high_level/](https://eksworkshop.com/introduction/eks/eks_high_level/)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTY5MjQwNTMyLC0xMzI4NzYwOTc1LC0yMD
-cyMDIyMjYyXX0=
+eyJoaXN0b3J5IjpbMjA5OTMwNzAxNSw1NjkyNDA1MzIsLTEzMj
+g3NjA5NzUsLTIwNzIwMjIyNjJdfQ==
 -->
