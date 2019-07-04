@@ -13,7 +13,10 @@
 
 [https://eksworkshop.com/introduction/eks/eks_high_level/](https://eksworkshop.com/introduction/eks/eks_high_level/)
 
+
+aws eks update-kubeconfig --name acadci --region us-west-2
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5OTMwNzAxNSw1NjkyNDA1MzIsLTEzMj
-g3NjA5NzUsLTIwNzIwMjIyNjJdfQ==
+eyJoaXN0b3J5IjpbNDUxNDMxMjcsMjA5OTMwNzAxNSw1NjkyND
+A1MzIsLTEzMjg3NjA5NzUsLTIwNzIwMjIyNjJdfQ==
 -->
