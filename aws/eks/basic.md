@@ -11,13 +11,11 @@
 
 [https://github.com/Kurento/Kubernetes/blob/master/nginx-deployment-service.yaml](https://github.com/Kurento/Kubernetes/blob/master/nginx-deployment-service.yaml)
 
-[https://eksworkshop.com/introduction/eks/eks_high_level/](https://eksworkshop.com/introduction/eks/eks_high_level/)
-
-
-
-
-
 [https://docs.aws.amazon.com/eks/latest/userguide/dashboard-tutorial.html](https://docs.aws.amazon.com/eks/latest/userguide/dashboard-tutorial.html)
+
+
+---
+[eks workshop](https://eksworkshop.com/introduction/eks/eks_high_level/)
 
 eksctl & kubectl installation
  - [kubectl](https://eksworkshop.com/prerequisites/k8stools/)
@@ -49,9 +47,9 @@ helm install --name websvr bitnami/nginx --set service.annotations."service\.bet
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4NzY5ODMxMywxNTI5MTEyMzE5LC04MT
-Y5MTg1MTUsNjEyNTcwNTc4LDE4MDg4NDM2NTQsMTM1ODAyMjA1
-NCwzMzExMDU3NSwtMTY3ODA0MjcyMywxOTI5MTk2NzEwLC0xMD
-I1OTU1NzExLDIwOTkzMDcwMTUsNTY5MjQwNTMyLC0xMzI4NzYw
-OTc1LC0yMDcyMDIyMjYyXX0=
+eyJoaXN0b3J5IjpbLTc4NTIwNjY1MCwxMjg3Njk4MzEzLDE1Mj
+kxMTIzMTksLTgxNjkxODUxNSw2MTI1NzA1NzgsMTgwODg0MzY1
+NCwxMzU4MDIyMDU0LDMzMTEwNTc1LC0xNjc4MDQyNzIzLDE5Mj
+kxOTY3MTAsLTEwMjU5NTU3MTEsMjA5OTMwNzAxNSw1NjkyNDA1
+MzIsLTEzMjg3NjA5NzUsLTIwNzIwMjIyNjJdfQ==
 -->
