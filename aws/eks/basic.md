@@ -21,9 +21,12 @@ aws eks update-kubeconfig --name acadci --region us-west-2
 
 [https://docs.aws.amazon.com/eks/latest/userguide/dashboard-tutorial.html](https://docs.aws.amazon.com/eks/latest/userguide/dashboard-tutorial.html)
 
+eksctl & kubectl
+[Install k8tools](https://eksworkshop.com/prerequisites/k8stools/)
 
+[Install eksctl](https://eksctl.io/introduction/installation/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyOTE5NjcxMCwtMTAyNTk1NTcxMSwyMD
-k5MzA3MDE1LDU2OTI0MDUzMiwtMTMyODc2MDk3NSwtMjA3MjAy
-MjI2Ml19
+eyJoaXN0b3J5IjpbNzI1ODIyMTQ5LDE5MjkxOTY3MTAsLTEwMj
+U5NTU3MTEsMjA5OTMwNzAxNSw1NjkyNDA1MzIsLTEzMjg3NjA5
+NzUsLTIwNzIwMjIyNjJdfQ==
 -->
