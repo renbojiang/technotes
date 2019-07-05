@@ -25,6 +25,7 @@ eksctl & kubectl installation
  - [kubectl](https://eksworkshop.com/prerequisites/k8stools/)
  - [eksctl](https://eksctl.io/introduction/installation/)
  - [helm](https://eksworkshop.com/helm_root/helm_intro/install/)
+ - [aws-iam-authenticator](https://docs.aws.amazon.com/eks/latest/userguide/install-aws-iam-authenticator.html)
 
 configure our aws cli with our current region as default:
 ```
@@ -36,8 +37,8 @@ aws configure set default.region ${AWS_REGION}
 aws configure get default.region
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1ODAyMjA1NCwzMzExMDU3NSwtMTY3OD
-A0MjcyMywxOTI5MTk2NzEwLC0xMDI1OTU1NzExLDIwOTkzMDcw
-MTUsNTY5MjQwNTMyLC0xMzI4NzYwOTc1LC0yMDcyMDIyMjYyXX
-0=
+eyJoaXN0b3J5IjpbMTgwODg0MzY1NCwxMzU4MDIyMDU0LDMzMT
+EwNTc1LC0xNjc4MDQyNzIzLDE5MjkxOTY3MTAsLTEwMjU5NTU3
+MTEsMjA5OTMwNzAxNSw1NjkyNDA1MzIsLTEzMjg3NjA5NzUsLT
+IwNzIwMjIyNjJdfQ==
 -->
