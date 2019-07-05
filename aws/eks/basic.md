@@ -43,9 +43,12 @@ helm install
 ```bash
 helm install nginx --tiller-namespace tiller-world --namespace tiller-world
 ```
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxNjkxODUxNSw2MTI1NzA1NzgsMTgwOD
-g0MzY1NCwxMzU4MDIyMDU0LDMzMTEwNTc1LC0xNjc4MDQyNzIz
-LDE5MjkxOTY3MTAsLTEwMjU5NTU3MTEsMjA5OTMwNzAxNSw1Nj
-kyNDA1MzIsLTEzMjg3NjA5NzUsLTIwNzIwMjIyNjJdfQ==
+eyJoaXN0b3J5IjpbMTc2NTc1NTQ5NywtODE2OTE4NTE1LDYxMj
+U3MDU3OCwxODA4ODQzNjU0LDEzNTgwMjIwNTQsMzMxMTA1NzUs
+LTE2NzgwNDI3MjMsMTkyOTE5NjcxMCwtMTAyNTk1NTcxMSwyMD
+k5MzA3MDE1LDU2OTI0MDUzMiwtMTMyODc2MDk3NSwtMjA3MjAy
+MjI2Ml19
 -->
