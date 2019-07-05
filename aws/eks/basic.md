@@ -25,9 +25,16 @@ eksctl & kubectl installation
  - [kubectl](https://eksworkshop.com/prerequisites/k8stools/)
  - [eksctl](https://eksctl.io/introduction/installation/)
 configure our aws cli with our current region as default:
-
+```
+export ACCOUNT_ID=$(aws sts get-caller-identity --output text --query Account) 
+export AWS_REGION=$(curl -s 169.254.169.254/latest/dynamic/instance-identity/document | jq -r '.region') 
+echo  "export ACCOUNT_ID=${ACCOUNT_ID}" >> ~/.bash_profile 
+echo  "export AWS_REGION=${AWS_REGION}" >> ~/.bash_profile 
+aws configure set default.region ${AWS_REGION} 
+aws configure get default.region
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTIyNjQ0NDIsLTE2NzgwNDI3MjMsMT
-kyOTE5NjcxMCwtMTAyNTk1NTcxMSwyMDk5MzA3MDE1LDU2OTI0
-MDUzMiwtMTMyODc2MDk3NSwtMjA3MjAyMjI2Ml19
+eyJoaXN0b3J5IjpbMzMxMTA1NzUsLTE2NzgwNDI3MjMsMTkyOT
+E5NjcxMCwtMTAyNTk1NTcxMSwyMDk5MzA3MDE1LDU2OTI0MDUz
+MiwtMTMyODc2MDk3NSwtMjA3MjAyMjI2Ml19
 -->
