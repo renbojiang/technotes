@@ -14,9 +14,7 @@
 [https://eksworkshop.com/introduction/eks/eks_high_level/](https://eksworkshop.com/introduction/eks/eks_high_level/)
 
 
-```
-aws eks update-kubeconfig --name acadci --region us-west-2
-```
+
 
 
 [https://docs.aws.amazon.com/eks/latest/userguide/dashboard-tutorial.html](https://docs.aws.amazon.com/eks/latest/userguide/dashboard-tutorial.html)
@@ -36,9 +34,14 @@ echo  "export AWS_REGION=${AWS_REGION}" >> ~/.bash_profile
 aws configure set default.region ${AWS_REGION} 
 aws configure get default.region
 ```
+update kubeconfig
+```
+aws eks update-kubeconfig --name acadci --region us-west-2
+```
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwODg0MzY1NCwxMzU4MDIyMDU0LDMzMT
-EwNTc1LC0xNjc4MDQyNzIzLDE5MjkxOTY3MTAsLTEwMjU5NTU3
-MTEsMjA5OTMwNzAxNSw1NjkyNDA1MzIsLTEzMjg3NjA5NzUsLT
-IwNzIwMjIyNjJdfQ==
+eyJoaXN0b3J5IjpbNjEyNTcwNTc4LDE4MDg4NDM2NTQsMTM1OD
+AyMjA1NCwzMzExMDU3NSwtMTY3ODA0MjcyMywxOTI5MTk2NzEw
+LC0xMDI1OTU1NzExLDIwOTkzMDcwMTUsNTY5MjQwNTMyLC0xMz
+I4NzYwOTc1LC0yMDcyMDIyMjYyXX0=
 -->
