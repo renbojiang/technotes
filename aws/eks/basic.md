@@ -39,9 +39,13 @@ update kubeconfig
 aws eks update-kubeconfig --name acadci --region us-west-2
 ```
 
+helm install
+```bash
+helm install nginx --tiller-namespace tiller-world --namespace tiller-world
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjEyNTcwNTc4LDE4MDg4NDM2NTQsMTM1OD
-AyMjA1NCwzMzExMDU3NSwtMTY3ODA0MjcyMywxOTI5MTk2NzEw
-LC0xMDI1OTU1NzExLDIwOTkzMDcwMTUsNTY5MjQwNTMyLC0xMz
-I4NzYwOTc1LC0yMDcyMDIyMjYyXX0=
+eyJoaXN0b3J5IjpbLTgxNjkxODUxNSw2MTI1NzA1NzgsMTgwOD
+g0MzY1NCwxMzU4MDIyMDU0LDMzMTEwNTc1LC0xNjc4MDQyNzIz
+LDE5MjkxOTY3MTAsLTEwMjU5NTU3MTEsMjA5OTMwNzAxNSw1Nj
+kyNDA1MzIsLTEzMjg3NjA5NzUsLTIwNzIwMjIyNjJdfQ==
 -->
