@@ -24,9 +24,10 @@ aws eks update-kubeconfig --name acadci --region us-west-2
 eksctl & kubectl installation
  - [kubectl](https://eksworkshop.com/prerequisites/k8stools/)
  - [eksctl](https://eksctl.io/introduction/installation/)
+configure our aws cli with our current region as default:
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzgwNDI3MjMsMTkyOTE5NjcxMCwtMT
-AyNTk1NTcxMSwyMDk5MzA3MDE1LDU2OTI0MDUzMiwtMTMyODc2
-MDk3NSwtMjA3MjAyMjI2Ml19
+eyJoaXN0b3J5IjpbLTEzMTIyNjQ0NDIsLTE2NzgwNDI3MjMsMT
+kyOTE5NjcxMCwtMTAyNTk1NTcxMSwyMDk5MzA3MDE1LDU2OTI0
+MDUzMiwtMTMyODc2MDk3NSwtMjA3MjAyMjI2Ml19
 -->
