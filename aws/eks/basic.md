@@ -17,7 +17,11 @@
 ```
 aws eks update-kubeconfig --name acadci --region us-west-2
 ```
+
+
+[https://docs.aws.amazon.com/eks/latest/userguide/dashboard-tutorial.html](https://docs.aws.amazon.com/eks/latest/userguide/dashboard-tutorial.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjU5NTU3MTEsMjA5OTMwNzAxNSw1Nj
-kyNDA1MzIsLTEzMjg3NjA5NzUsLTIwNzIwMjIyNjJdfQ==
+eyJoaXN0b3J5IjpbLTE2MDM0NDQ1MzQsLTEwMjU5NTU3MTEsMj
+A5OTMwNzAxNSw1NjkyNDA1MzIsLTEzMjg3NjA5NzUsLTIwNzIw
+MjIyNjJdfQ==
 -->
