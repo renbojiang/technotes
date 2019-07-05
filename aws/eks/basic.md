@@ -44,9 +44,12 @@ helm install
 helm install nginx --tiller-namespace tiller-world --namespace tiller-world
 ```
 
+```
+helm install --name websvr bitnami/nginx --set service.annotations."service\.beta\.kubernetes\.io/load-balancer-source-ranges"="10.0.0.0/8" --set service.annotations."service\.beta\.kubernetes\.io/aws-load-balancer-internal"="0.0.0.0/0"
+```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2NTc1NTQ5NywtODE2OTE4NTE1LDYxMj
+eyJoaXN0b3J5IjpbMTUyOTExMjMxOSwtODE2OTE4NTE1LDYxMj
 U3MDU3OCwxODA4ODQzNjU0LDEzNTgwMjIwNTQsMzMxMTA1NzUs
 LTE2NzgwNDI3MjMsMTkyOTE5NjcxMCwtMTAyNTk1NTcxMSwyMD
 k5MzA3MDE1LDU2OTI0MDUzMiwtMTMyODc2MDk3NSwtMjA3MjAy
