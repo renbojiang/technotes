@@ -31,12 +31,13 @@ An Amazon ECS deployment type determines the deployment strategy that your servi
 
 [https://www.youtube.com/watch?v=fMGd9IUaotE](https://www.youtube.com/watch?v=fMGd9IUaotE)
 
+[ecsworkshop](https://ecsworkshop.com/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1MzE1NDIwNywxMzE2MDc5MDU2LDExNT
-Y5MDUwNjEsLTEzNDM4ODgzMjcsMTM1MzgxOTgxMywtNjc5NzYw
-MzMzLDEwMTQwMzU0MCwtMTk1OTI4MjE0MywxMjQ4OTYzNjEzLD
-E0NTM4MzQzMDIsLTIxMDkxMzE0ODEsLTY5OTI2NjQ5OSw3NjA0
-MTU5NjgsMTY0ODc1MTExOCwtMTk4NDY2MjE0NSwxMDAzNjE5Mz
-Q5LDE0Mjc4ODk2OTEsNTQ1NjExMzc4LDE5NjU4MTMwMSwxODg5
-NDc0NjYzXX0=
+eyJoaXN0b3J5IjpbMTUxMjQyOTg0NywtNjUzMTU0MjA3LDEzMT
+YwNzkwNTYsMTE1NjkwNTA2MSwtMTM0Mzg4ODMyNywxMzUzODE5
+ODEzLC02Nzk3NjAzMzMsMTAxNDAzNTQwLC0xOTU5MjgyMTQzLD
+EyNDg5NjM2MTMsMTQ1MzgzNDMwMiwtMjEwOTEzMTQ4MSwtNjk5
+MjY2NDk5LDc2MDQxNTk2OCwxNjQ4NzUxMTE4LC0xOTg0NjYyMT
+Q1LDEwMDM2MTkzNDksMTQyNzg4OTY5MSw1NDU2MTEzNzgsMTk2
+NTgxMzAxXX0=
 -->
