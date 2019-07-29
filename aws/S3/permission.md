@@ -11,6 +11,8 @@ You can also attach access policies to users in your account. These are called u
 
 ## References
 [s3-access-control](https://docs.aws.amazon.com/AmazonS3/latest/dev/s3-access-control.html)
+[intro-managing-access-s3-resources](https://docs.aws.amazon.com/AmazonS3/latest/dev/intro-managing-access-s3-resources.html)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDI3Nzg3MTJdfQ==
+eyJoaXN0b3J5IjpbLTE5MDYxNjA5OF19
 -->
