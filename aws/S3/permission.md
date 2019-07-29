@@ -4,12 +4,13 @@
 
 - resource-based policies: 
 Access policies you attach to your resources (buckets and objects) are referred to as resource-based policies. For example, bucket policies and access control lists (ACLs) are resource-based policies.
-- user-based policiesYou can also attach access policies to users in your account. These are called user policies.
+- user-based policies
+You can also attach access policies to users in your account. These are called user policies.
 
 
 
 ## References
 [s3-access-control](https://docs.aws.amazon.com/AmazonS3/latest/dev/s3-access-control.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDQ5MTYzMjBdfQ==
+eyJoaXN0b3J5IjpbLTE0Njk4Mjk0NTRdfQ==
 -->
