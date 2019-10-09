@@ -137,9 +137,10 @@ https://aws.amazon.com/cn/s3/pricing
 - instance strorage
 - IOPS throughput 优化
 
-E
+ECU 是性能指标
+不确定EC2 type的时候，从Mlie
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyNzMzOTEyMiwxMzY0MDk3NzI5LC01OT
+eyJoaXN0b3J5IjpbMTI1Mjg2MTc2MCwxMzY0MDk3NzI5LC01OT
 kyMjQzNDcsNzIyMTUzMTM1LC0xMTI4MDc1NjQyLDc1NTk0OTY0
 MywtNDM0Mzc0MDYwLC0yNTcxMTk0MDksMjAxNjkzNzE1MCw3OD
 gxNDY3ODgsLTIwNzI3MTY2OTYsLTE3OTk4MTI2MzAsLTE3ODIz
