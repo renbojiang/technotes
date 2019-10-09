@@ -116,11 +116,18 @@ https://aws.amazon.com/cn/s3/pricing
 	- 和EC2在一个主机上
 	- 易失性 （EC2 stop/start）
 	- 比EBS快，便宜
+	
+EBS Optimized Instance
 
 **SSD**
 - General Purpose SSD
 - IOPS SSD （6400）
-- sh
+- 随机读取
+**HDD**
+- Optimized HDD
+- Cold HDD
+- 顺序读取
+
 **M5.Large**
  - M: family name 
  - 5: generation number 
@@ -182,7 +189,7 @@ https://aws.amazon.com/cn/s3/pricing
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0MDk5NTkyLDExNDk0MDU1MDEsMTA1MD
+eyJoaXN0b3J5IjpbNTM1MTk2NzAzLDExNDk0MDU1MDEsMTA1MD
 I5OTY1NCwtMTYyMzA4MjAzMywyMTI4MjUxMzU2LDIxMjA4NDg1
 OTgsMTEyMDU3MTEwOSwxMDQxNjMzMjU4LDU0ODM1NjUzOCwtOD
 A3MTIxMzIyLDEyMTQ3MjkyNjcsMTM2NDA5NzcyOSwtNTk5MjI0
