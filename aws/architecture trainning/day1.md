@@ -116,11 +116,21 @@ https://aws.amazon.com/cn/s3/pricing
  - 5: generation number 
  - Large: the size of the instance
 
+**T系列**
+
+ - 20%基线
+ - credit
+
+**C系列**
+- Nitro
+- 99.99%裸机性能
+- 1：
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5OTIyNDM0Nyw3MjIxNTMxMzUsLTExMj
-gwNzU2NDIsNzU1OTQ5NjQzLC00MzQzNzQwNjAsLTI1NzExOTQw
-OSwyMDE2OTM3MTUwLDc4ODE0Njc4OCwtMjA3MjcxNjY5NiwtMT
-c5OTgxMjYzMCwtMTc4MjM4MzMwMSwxNjk1OTg1NDEsLTM3OTc4
-OTEzNyw2NzU0ODc1NiwtMTc4MjAzMjY5OSwxNDAwMzI2NjE3LD
-czMDk5ODExNl19
+eyJoaXN0b3J5IjpbLTU0NTA1NDI3NiwtNTk5MjI0MzQ3LDcyMj
+E1MzEzNSwtMTEyODA3NTY0Miw3NTU5NDk2NDMsLTQzNDM3NDA2
+MCwtMjU3MTE5NDA5LDIwMTY5MzcxNTAsNzg4MTQ2Nzg4LC0yMD
+cyNzE2Njk2LC0xNzk5ODEyNjMwLC0xNzgyMzgzMzAxLDE2OTU5
+ODU0MSwtMzc5Nzg5MTM3LDY3NTQ4NzU2LC0xNzgyMDMyNjk5LD
+E0MDAzMjY2MTcsNzMwOTk4MTE2XX0=
 -->
