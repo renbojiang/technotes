@@ -49,10 +49,12 @@
 - Identity Policy
 - Resource Policy
 
-
+**Versioning Control**
+- 默认不开启bucket的versioning control
+- 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzQ4NjUyOCw3ODgxNDY3ODgsLTIwNz
+eyJoaXN0b3J5IjpbMjAxNjkzNzE1MCw3ODgxNDY3ODgsLTIwNz
 I3MTY2OTYsLTE3OTk4MTI2MzAsLTE3ODIzODMzMDEsMTY5NTk4
 NTQxLC0zNzk3ODkxMzcsNjc1NDg3NTYsLTE3ODIwMzI2OTksMT
 QwMDMyNjYxNyw3MzA5OTgxMTZdfQ==
