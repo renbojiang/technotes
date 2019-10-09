@@ -10,21 +10,22 @@
  - 计费模式不可忽略
  - 各个AZ其实是随机值。
 
-### Edge Location
- - Performance
+## Edge Location
+ ### Performance
 	 - R53
 		 - 全球DNS解析服务
 		 - 内部DNS解析
 		 - 不同的路由选择策略
 		 - 服务发现
 	 - CloudFront: CDN
- - Security
+ ### Security
 	 - Shield
 		 - DDos
 	 - WAF
 		 - 应用层防火墙
+### 全托管服务
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1MzY2MTc4Niw2NzU0ODc1NiwtMTc4Mj
+eyJoaXN0b3J5IjpbLTM3OTc4OTEzNyw2NzU0ODc1NiwtMTc4Mj
 AzMjY5OSwxNDAwMzI2NjE3LDczMDk5ODExNl19
 -->
