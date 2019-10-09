@@ -38,10 +38,10 @@
 **ACL**
 - 两级ACL： Object， Bucket 
 - 默认阻止所有公共访问权限
-- 
+- ACL主要控制人tong
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzNDcxMTI0MCwtMTc4MjM4MzMwMSwxNj
-k1OTg1NDEsLTM3OTc4OTEzNyw2NzU0ODc1NiwtMTc4MjAzMjY5
-OSwxNDAwMzI2NjE3LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbMzg3NTM5ODAxLC0xNzgyMzgzMzAxLDE2OT
+U5ODU0MSwtMzc5Nzg5MTM3LDY3NTQ4NzU2LC0xNzgyMDMyNjk5
+LDE0MDAzMjY2MTcsNzMwOTk4MTE2XX0=
 -->
