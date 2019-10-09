@@ -109,6 +109,8 @@ https://aws.amazon.com/cn/s3/pricing
 
 **EC2根设备类型**
 - ebs (Elastic Block Store)
+	- snapshot (保存进S3）
+	- 不在EBS里保存重要信息
 - Instance storage
 
 **M5.Large**
@@ -173,7 +175,7 @@ https://aws.amazon.com/cn/s3/pricing
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjUxMzIxNDk2LDEwNTAyOTk2NTQsLTE2Mj
+eyJoaXN0b3J5IjpbOTc4NTA5MTc5LDEwNTAyOTk2NTQsLTE2Mj
 MwODIwMzMsMjEyODI1MTM1NiwyMTIwODQ4NTk4LDExMjA1NzEx
 MDksMTA0MTYzMzI1OCw1NDgzNTY1MzgsLTgwNzEyMTMyMiwxMj
 E0NzI5MjY3LDEzNjQwOTc3MjksLTU5OTIyNDM0Nyw3MjIxNTMx
