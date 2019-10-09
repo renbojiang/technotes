@@ -60,13 +60,14 @@
 **Access control - CORS**
 - 可自定义CORS策略
 
-**Multipart Upload**
-- 多路并行上传
+**Speedup Upload**
+- Multipart Upload 多路并行上传
+- Global Accelerate
 - 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1MDQwNDQ5MiwyMDE2OTM3MTUwLDc4OD
-E0Njc4OCwtMjA3MjcxNjY5NiwtMTc5OTgxMjYzMCwtMTc4MjM4
-MzMwMSwxNjk1OTg1NDEsLTM3OTc4OTEzNyw2NzU0ODc1NiwtMT
-c4MjAzMjY5OSwxNDAwMzI2NjE3LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbLTEwMzIxNzAwMjIsMjAxNjkzNzE1MCw3OD
+gxNDY3ODgsLTIwNzI3MTY2OTYsLTE3OTk4MTI2MzAsLTE3ODIz
+ODMzMDEsMTY5NTk4NTQxLC0zNzk3ODkxMzcsNjc1NDg3NTYsLT
+E3ODIwMzI2OTksMTQwMDMyNjYxNyw3MzA5OTgxMTZdfQ==
 -->
