@@ -30,11 +30,13 @@
 - Object-level storage (vs. block storage)
 - 99.99% (4个9) availability , 99.9.. 9% (11个9) durability
 - Event Trigger 
-- S3是global service，但S3 bucket必须属于某个region。Bucket 名字management partition唯一。 arn命名规则决定的。
-- S3对象命名：bucket.s3-region.
+- S3是global service，但S3 bucket必须属于某个region。
+- Bucket 名字是management partition唯一。 arn命名规则决定的。
+- S3对象命名：bucket.s3-region.amazonaws.com/object. 注意US East没有region名称。
+- 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwOTY4MDMxOCwxNjk1OTg1NDEsLTM3OT
+eyJoaXN0b3J5IjpbMTc2MDc2MDE2NCwxNjk1OTg1NDEsLTM3OT
 c4OTEzNyw2NzU0ODc1NiwtMTc4MjAzMjY5OSwxNDAwMzI2NjE3
 LDczMDk5ODExNl19
 -->
