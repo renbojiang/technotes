@@ -41,14 +41,14 @@
 - ACL主要控制人通过internet来访问S3的权限控制。 通过API来访问的控制，主要通过Role。
 
 **Bucket Policy**
+- 实现更精细的访问控制，比如可以限制从哪里来的访问控制
 
 **AWS Policy 有两类：**
 - Identity Policy
 - Resource Policy
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTQyNTg2MzUsLTE3OTk4MTI2MzAsLT
-E3ODIzODMzMDEsMTY5NTk4NTQxLC0zNzk3ODkxMzcsNjc1NDg3
-NTYsLTE3ODIwMzI2OTksMTQwMDMyNjYxNyw3MzA5OTgxMTZdfQ
-==
+eyJoaXN0b3J5IjpbLTY4NjU3OTAzMSwtMTc5OTgxMjYzMCwtMT
+c4MjM4MzMwMSwxNjk1OTg1NDEsLTM3OTc4OTEzNyw2NzU0ODc1
+NiwtMTc4MjAzMjY5OSwxNDAwMzI2NjE3LDczMDk5ODExNl19
 -->
