@@ -60,14 +60,14 @@
 **Access control - CORS**
 - 可自定义CORS策略
 
-**Speedup Upload**
+**Upload/Download**
 - Multipart Upload 多路并行上传
-- Global Accelerate
+- Global Accelerate (Edge location: CloudFront)
 - 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzIxNzAwMjIsMjAxNjkzNzE1MCw3OD
-gxNDY3ODgsLTIwNzI3MTY2OTYsLTE3OTk4MTI2MzAsLTE3ODIz
-ODMzMDEsMTY5NTk4NTQxLC0zNzk3ODkxMzcsNjc1NDg3NTYsLT
-E3ODIwMzI2OTksMTQwMDMyNjYxNyw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbMTU5Njg1MTAwNCwyMDE2OTM3MTUwLDc4OD
+E0Njc4OCwtMjA3MjcxNjY5NiwtMTc5OTgxMjYzMCwtMTc4MjM4
+MzMwMSwxNjk1OTg1NDEsLTM3OTc4OTEzNyw2NzU0ODc1NiwtMT
+c4MjAzMjY5OSwxNDAwMzI2NjE3LDczMDk5ODExNl19
 -->
