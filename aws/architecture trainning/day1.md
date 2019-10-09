@@ -117,7 +117,8 @@ https://aws.amazon.com/cn/s3/pricing
 	- 易失性 （EC2 stop/start）
 	- 比EBS快，便宜
 	
-EBS Optimized Instance
+**EBS Optimized Instance**
+- 425 Mbps ~ 14000 mbps
 
 **SSD**
 - General Purpose SSD
@@ -187,13 +188,16 @@ EBS Optimized Instance
 - 以spot对付业务激增
 - 以On-demand对付增长
 
-
+Shared File System
+- EBS (Cann't)
+- S3 (can but not ideal)
+- EFS/FSx
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM1MTk2NzAzLDExNDk0MDU1MDEsMTA1MD
-I5OTY1NCwtMTYyMzA4MjAzMywyMTI4MjUxMzU2LDIxMjA4NDg1
-OTgsMTEyMDU3MTEwOSwxMDQxNjMzMjU4LDU0ODM1NjUzOCwtOD
-A3MTIxMzIyLDEyMTQ3MjkyNjcsMTM2NDA5NzcyOSwtNTk5MjI0
-MzQ3LDcyMjE1MzEzNSwtMTEyODA3NTY0Miw3NTU5NDk2NDMsLT
-QzNDM3NDA2MCwtMjU3MTE5NDA5LDIwMTY5MzcxNTAsNzg4MTQ2
-Nzg4XX0=
+eyJoaXN0b3J5IjpbLTQ4MzUyOTQwMywxMTQ5NDA1NTAxLDEwNT
+AyOTk2NTQsLTE2MjMwODIwMzMsMjEyODI1MTM1NiwyMTIwODQ4
+NTk4LDExMjA1NzExMDksMTA0MTYzMzI1OCw1NDgzNTY1MzgsLT
+gwNzEyMTMyMiwxMjE0NzI5MjY3LDEzNjQwOTc3MjksLTU5OTIy
+NDM0Nyw3MjIxNTMxMzUsLTExMjgwNzU2NDIsNzU1OTQ5NjQzLC
+00MzQzNzQwNjAsLTI1NzExOTQwOSwyMDE2OTM3MTUwLDc4ODE0
+Njc4OF19
 -->
