@@ -108,10 +108,12 @@ https://aws.amazon.com/cn/s3/pricing
 	- Launch Permission (Golden Image)
 
 **EC2根设备类型**
-- ebs (Elastic Block Store)
+- EBS (Elastic Block Store)
 	- snapshot (保存进S3）
 	- 不在EBS里保存重要信息
+	- 和EC2不在一个主机上，通过网络互连
 - Instance storage
+	- 和EC2在一个主机上
 
 **M5.Large**
  - M: family name 
@@ -175,11 +177,11 @@ https://aws.amazon.com/cn/s3/pricing
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTc4NTA5MTc5LDEwNTAyOTk2NTQsLTE2Mj
-MwODIwMzMsMjEyODI1MTM1NiwyMTIwODQ4NTk4LDExMjA1NzEx
-MDksMTA0MTYzMzI1OCw1NDgzNTY1MzgsLTgwNzEyMTMyMiwxMj
-E0NzI5MjY3LDEzNjQwOTc3MjksLTU5OTIyNDM0Nyw3MjIxNTMx
-MzUsLTExMjgwNzU2NDIsNzU1OTQ5NjQzLC00MzQzNzQwNjAsLT
-I1NzExOTQwOSwyMDE2OTM3MTUwLDc4ODE0Njc4OCwtMjA3Mjcx
-NjY5Nl19
+eyJoaXN0b3J5IjpbLTg5NTE1MTUzOCwxMDUwMjk5NjU0LC0xNj
+IzMDgyMDMzLDIxMjgyNTEzNTYsMjEyMDg0ODU5OCwxMTIwNTcx
+MTA5LDEwNDE2MzMyNTgsNTQ4MzU2NTM4LC04MDcxMjEzMjIsMT
+IxNDcyOTI2NywxMzY0MDk3NzI5LC01OTkyMjQzNDcsNzIyMTUz
+MTM1LC0xMTI4MDc1NjQyLDc1NTk0OTY0MywtNDM0Mzc0MDYwLC
+0yNTcxMTk0MDksMjAxNjkzNzE1MCw3ODgxNDY3ODgsLTIwNzI3
+MTY2OTZdfQ==
 -->
