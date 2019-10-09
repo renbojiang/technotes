@@ -96,7 +96,7 @@ https://aws.amazon.com/cn/s3/pricing
 	- Launch permissions
 	- a block device mapping
 	
-- 选择AMI
+**选择AMI**
 	- x86/arm
 	- hvm / pv
 	- 64bit / 32 bit
@@ -107,12 +107,15 @@ https://aws.amazon.com/cn/s3/pricing
 		- charge for hours
 	- Launch Permission (Golden Image)
 
-ge
+**EC2根设备类型**
+- ebs
+- Instance storage
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzUzMzg2MiwtMTEyODA3NTY0Miw3NT
-U5NDk2NDMsLTQzNDM3NDA2MCwtMjU3MTE5NDA5LDIwMTY5Mzcx
-NTAsNzg4MTQ2Nzg4LC0yMDcyNzE2Njk2LC0xNzk5ODEyNjMwLC
-0xNzgyMzgzMzAxLDE2OTU5ODU0MSwtMzc5Nzg5MTM3LDY3NTQ4
-NzU2LC0xNzgyMDMyNjk5LDE0MDAzMjY2MTcsNzMwOTk4MTE2XX
-0=
+eyJoaXN0b3J5IjpbNzIyMTUzMTM1LC0xMTI4MDc1NjQyLDc1NT
+k0OTY0MywtNDM0Mzc0MDYwLC0yNTcxMTk0MDksMjAxNjkzNzE1
+MCw3ODgxNDY3ODgsLTIwNzI3MTY2OTYsLTE3OTk4MTI2MzAsLT
+E3ODIzODMzMDEsMTY5NTk4NTQxLC0zNzk3ODkxMzcsNjc1NDg3
+NTYsLTE3ODIwMzI2OTksMTQwMDMyNjYxNyw3MzA5OTgxMTZdfQ
+==
 -->
