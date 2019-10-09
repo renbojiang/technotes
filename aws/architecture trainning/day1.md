@@ -30,9 +30,10 @@
 - Object-level storage (vs. block storage)
 - 99.99% (4个9) availability , 99.9.. 9% (11个9) durability
 - Event Trigger 
+- 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDEzMTYxMjk5LC0zNzk3ODkxMzcsNjc1ND
+eyJoaXN0b3J5IjpbMTE2OTIxMjMwLC0zNzk3ODkxMzcsNjc1ND
 g3NTYsLTE3ODIwMzI2OTksMTQwMDMyNjYxNyw3MzA5OTgxMTZd
 fQ==
 -->
