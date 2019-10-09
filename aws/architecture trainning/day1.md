@@ -42,13 +42,15 @@
 
 **Bucket Policy**
 - 实现更精细的访问控制，比如可以限制从哪里来的访问控制
+- Policy可以通过template统一部署
 
 **AWS Policy 有两类：**
 - Identity Policy
 - Resource Policy
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4NjU3OTAzMSwtMTc5OTgxMjYzMCwtMT
-c4MjM4MzMwMSwxNjk1OTg1NDEsLTM3OTc4OTEzNyw2NzU0ODc1
-NiwtMTc4MjAzMjY5OSwxNDAwMzI2NjE3LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbLTIwNzI3MTY2OTYsLTE3OTk4MTI2MzAsLT
+E3ODIzODMzMDEsMTY5NTk4NTQxLC0zNzk3ODkxMzcsNjc1NDg3
+NTYsLTE3ODIwMzI2OTksMTQwMDMyNjYxNyw3MzA5OTgxMTZdfQ
+==
 -->
