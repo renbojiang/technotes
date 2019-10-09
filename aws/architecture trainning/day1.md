@@ -140,9 +140,10 @@ https://aws.amazon.com/cn/s3/pricing
 **Tips**
 - ECU 是性能指标
 - 不确定EC2 type的时候，从M系列开始，用cloudwatch观察，然后替换
-- User DATA
+- User Data是以root身份执行的
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5NzgyMTM2NSwxMjE0NzI5MjY3LDEzNj
+eyJoaXN0b3J5IjpbMTI2NTExNDU2NSwxMjE0NzI5MjY3LDEzNj
 QwOTc3MjksLTU5OTIyNDM0Nyw3MjIxNTMxMzUsLTExMjgwNzU2
 NDIsNzU1OTQ5NjQzLC00MzQzNzQwNjAsLTI1NzExOTQwOSwyMD
 E2OTM3MTUwLDc4ODE0Njc4OCwtMjA3MjcxNjY5NiwtMTc5OTgx
