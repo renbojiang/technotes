@@ -31,10 +31,10 @@
 - 99.99% (4个9) availability , 99.9.. 9% (11个9) durability
 - Event Trigger 
 - S3是global service，但S3 bucket必须属于某个region。Bucket 名字management partition唯一。 arn命名规则决定的。
-- 
+- S3对象命名：bucket.s3-region.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5NTk4NTQxLC0zNzk3ODkxMzcsNjc1ND
-g3NTYsLTE3ODIwMzI2OTksMTQwMDMyNjYxNyw3MzA5OTgxMTZd
-fQ==
+eyJoaXN0b3J5IjpbMTIwOTY4MDMxOCwxNjk1OTg1NDEsLTM3OT
+c4OTEzNyw2NzU0ODc1NiwtMTc4MjAzMjY5OSwxNDAwMzI2NjE3
+LDczMDk5ODExNl19
 -->
