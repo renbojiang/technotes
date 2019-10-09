@@ -12,12 +12,16 @@
 
 ### Edge Location
  - Performance
-	 - R53: 全球DNS解析服务
+	 - R53
+		 - 全球DNS解析服务
+		 - 内部DNS解析
+		 - 不同的路由选择策略
+		 - 服务发现
 	 - CloudFront: CDN
  - Security
 	 - 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjc1NDg3NTYsLTE3ODIwMzI2OTksMTQwMD
-MyNjYxNyw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbMTgxMjQ3NDMwMiw2NzU0ODc1NiwtMTc4Mj
+AzMjY5OSwxNDAwMzI2NjE3LDczMDk5ODExNl19
 -->
