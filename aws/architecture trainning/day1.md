@@ -63,10 +63,10 @@
 **Upload/Download**
 - Multipart Upload 多路并行上传
 - Global Accelerate (Edge location: CloudFront)
-- 
+- Snowball 快递
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5Njg1MTAwNCwyMDE2OTM3MTUwLDc4OD
+eyJoaXN0b3J5IjpbLTI1NzExOTQwOSwyMDE2OTM3MTUwLDc4OD
 E0Njc4OCwtMjA3MjcxNjY5NiwtMTc5OTgxMjYzMCwtMTc4MjM4
 MzMwMSwxNjk1OTg1NDEsLTM3OTc4OTEzNyw2NzU0ODc1NiwtMT
 c4MjAzMjY5OSwxNDAwMzI2NjE3LDczMDk5ODExNl19
