@@ -52,11 +52,12 @@
 
 **Versioning Control**
 - 默认不开启bucket的versioning control
-- 
+- 可以通过带版本信息的URL访问各个版本的对象
+- 如果删除一个对象，zhi
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA2MzMxODQ1LDIwMTY5MzcxNTAsNzg4MT
-Q2Nzg4LC0yMDcyNzE2Njk2LC0xNzk5ODEyNjMwLC0xNzgyMzgz
-MzAxLDE2OTU5ODU0MSwtMzc5Nzg5MTM3LDY3NTQ4NzU2LC0xNz
-gyMDMyNjk5LDE0MDAzMjY2MTcsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbMTI1NzU0OTk2NiwyMDE2OTM3MTUwLDc4OD
+E0Njc4OCwtMjA3MjcxNjY5NiwtMTc5OTgxMjYzMCwtMTc4MjM4
+MzMwMSwxNjk1OTg1NDEsLTM3OTc4OTEzNyw2NzU0ODc1NiwtMT
+c4MjAzMjY5OSwxNDAwMzI2NjE3LDczMDk5ODExNl19
 -->
