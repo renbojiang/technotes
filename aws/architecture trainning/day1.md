@@ -12,17 +12,17 @@
 
 ### Edge Location
  #### Performance
-	 - R53
-		 - 全球DNS解析服务
-		 - 内部DNS解析
-		 - 不同的路由选择策略
-		 - 服务发现
-	 - CloudFront: CDN
+ - R53
+	 - 全球DNS解析服务
+	 - 内部DNS解析
+	 - 不同的路由选择策略
+	 - 服务发现
+ - CloudFront: CDN
  #### Security
-	 - Shield
-		 - DDos
-	 - WAF
-		 - 应用层防火墙
+ - Shield
+	 - DDos
+ - WAF
+	 - 应用层防火墙
 #### 全托管服务
 
 # Module 2
@@ -198,11 +198,11 @@ https://aws.amazon.com/cn/s3/pricing
 	- FSx
 		- Windows Workloads
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzMzc3NDAxMCwxMTQ5NDA1NTAxLDEwNT
-AyOTk2NTQsLTE2MjMwODIwMzMsMjEyODI1MTM1NiwyMTIwODQ4
-NTk4LDExMjA1NzExMDksMTA0MTYzMzI1OCw1NDgzNTY1MzgsLT
-gwNzEyMTMyMiwxMjE0NzI5MjY3LDEzNjQwOTc3MjksLTU5OTIy
-NDM0Nyw3MjIxNTMxMzUsLTExMjgwNzU2NDIsNzU1OTQ5NjQzLC
-00MzQzNzQwNjAsLTI1NzExOTQwOSwyMDE2OTM3MTUwLDc4ODE0
-Njc4OF19
+eyJoaXN0b3J5IjpbLTEwNjg2MjQ2MzAsMTIzMzc3NDAxMCwxMT
+Q5NDA1NTAxLDEwNTAyOTk2NTQsLTE2MjMwODIwMzMsMjEyODI1
+MTM1NiwyMTIwODQ4NTk4LDExMjA1NzExMDksMTA0MTYzMzI1OC
+w1NDgzNTY1MzgsLTgwNzEyMTMyMiwxMjE0NzI5MjY3LDEzNjQw
+OTc3MjksLTU5OTIyNDM0Nyw3MjIxNTMxMzUsLTExMjgwNzU2ND
+IsNzU1OTQ5NjQzLC00MzQzNzQwNjAsLTI1NzExOTQwOSwyMDE2
+OTM3MTUwXX0=
 -->
