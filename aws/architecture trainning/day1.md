@@ -90,9 +90,11 @@ https://aws.amazon.com/cn/s3/pricing
 - 一次性计算资源 
 - 不保存状态信息
 
-
+**AMI**
+- 选择AMI
+	- arch
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzMzI3OTU5LC0xMTI4MDc1NjQyLDc1NT
+eyJoaXN0b3J5IjpbMzExNzAyOTUzLC0xMTI4MDc1NjQyLDc1NT
 k0OTY0MywtNDM0Mzc0MDYwLC0yNTcxMTk0MDksMjAxNjkzNzE1
 MCw3ODgxNDY3ODgsLTIwNzI3MTY2OTYsLTE3OTk4MTI2MzAsLT
 E3ODIzODMzMDEsMTY5NTk4NTQxLC0zNzk3ODkxMzcsNjc1NDg3
