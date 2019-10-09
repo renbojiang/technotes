@@ -7,8 +7,8 @@
 delay between AZ is: 2 ms
 AZ 做双活高可用，Region做灾备
 计费模式不可忽略
-
+AZ的
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODIwMzI2OTksMTQwMDMyNjYxNyw3Mz
-A5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbMTc5ODU3MzY2OCwtMTc4MjAzMjY5OSwxND
+AwMzI2NjE3LDczMDk5ODExNl19
 -->
