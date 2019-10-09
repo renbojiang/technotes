@@ -74,8 +74,10 @@ https://aws.amazon.com/cn/s3/pricing
 **存储方式**
 - 通过数据访问频度选择存储方式
 - S3 standard -> IA -> Glacier
-- Life Cycle Rules 也可以通过Lambda自定义策略
-- 
+- 操作
+	- Life Cycle Rules
+	- Lambda自定义策略
+	- 
 
 **Glacier**
 - 库锁 Vault Lock
@@ -84,7 +86,7 @@ https://aws.amazon.com/cn/s3/pricing
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1ODA0MzQwMCwtNDM0Mzc0MDYwLC0yNT
+eyJoaXN0b3J5IjpbMTUzNzYwNDY3OSwtNDM0Mzc0MDYwLC0yNT
 cxMTk0MDksMjAxNjkzNzE1MCw3ODgxNDY3ODgsLTIwNzI3MTY2
 OTYsLTE3OTk4MTI2MzAsLTE3ODIzODMzMDEsMTY5NTk4NTQxLC
 0zNzk3ODkxMzcsNjc1NDg3NTYsLTE3ODIwMzI2OTksMTQwMDMy
