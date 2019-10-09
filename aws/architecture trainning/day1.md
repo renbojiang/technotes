@@ -64,12 +64,14 @@
 - Multipart Upload 多路并行上传
 - Global Accelerate (Edge location: CloudFront)
 - Snowball 快递 / Snowmobile 集装箱
-- 
 
+收费
+- Storage: 0.023GB/Month
+- Transfer out: to other region or internet. 0.09
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzNDM3NDA2MCwtMjU3MTE5NDA5LDIwMT
-Y5MzcxNTAsNzg4MTQ2Nzg4LC0yMDcyNzE2Njk2LC0xNzk5ODEy
-NjMwLC0xNzgyMzgzMzAxLDE2OTU5ODU0MSwtMzc5Nzg5MTM3LD
-Y3NTQ4NzU2LC0xNzgyMDMyNjk5LDE0MDAzMjY2MTcsNzMwOTk4
-MTE2XX0=
+eyJoaXN0b3J5IjpbLTExMTEzNDg4OSwtNDM0Mzc0MDYwLC0yNT
+cxMTk0MDksMjAxNjkzNzE1MCw3ODgxNDY3ODgsLTIwNzI3MTY2
+OTYsLTE3OTk4MTI2MzAsLTE3ODIzODMzMDEsMTY5NTk4NTQxLC
+0zNzk3ODkxMzcsNjc1NDg3NTYsLTE3ODIwMzI2OTksMTQwMDMy
+NjYxNyw3MzA5OTgxMTZdfQ==
 -->
