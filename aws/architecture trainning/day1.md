@@ -115,6 +115,7 @@ https://aws.amazon.com/cn/s3/pricing
 - Instance storage
 	- 和EC2在一个主机上
 	- 易失性 （EC2 stop/start）
+	- 比EBS快，便宜
 
 SSD
 - General Purpose SSD
@@ -181,7 +182,7 @@ SSD
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjExMjg1MTIsMTA1MDI5OTY1NCwtMT
+eyJoaXN0b3J5IjpbLTIxMzU2MjUyODMsMTA1MDI5OTY1NCwtMT
 YyMzA4MjAzMywyMTI4MjUxMzU2LDIxMjA4NDg1OTgsMTEyMDU3
 MTEwOSwxMDQxNjMzMjU4LDU0ODM1NjUzOCwtODA3MTIxMzIyLD
 EyMTQ3MjkyNjcsMTM2NDA5NzcyOSwtNTk5MjI0MzQ3LDcyMjE1
