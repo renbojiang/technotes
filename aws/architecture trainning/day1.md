@@ -42,9 +42,13 @@
 
 **Bucket Policy**
 
-Identi
+**AWS Policy 有两类：**
+- Identity Policy
+- Resource Policy
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1NDg3MjAzMywtMTc5OTgxMjYzMCwtMT
-c4MjM4MzMwMSwxNjk1OTg1NDEsLTM3OTc4OTEzNyw2NzU0ODc1
-NiwtMTc4MjAzMjY5OSwxNDAwMzI2NjE3LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbLTE1OTQyNTg2MzUsLTE3OTk4MTI2MzAsLT
+E3ODIzODMzMDEsMTY5NTk4NTQxLC0zNzk3ODkxMzcsNjc1NDg3
+NTYsLTE3ODIwMzI2OTksMTQwMDMyNjYxNyw3MzA5OTgxMTZdfQ
+==
 -->
