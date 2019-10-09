@@ -36,6 +36,7 @@
 - S3对象的键值总是包含路劲的。
 - 可以方便实现托管静态站点
 - 主要存放非结构化数据
+- 不具备stream数据输入
 
 **ACL**
 - 两级ACL： Object， Bucket 
@@ -56,12 +57,15 @@
 - 可以通过带版本信息的URL访问各个版本的对象
 - 区别删除一个对象（marked it as deleted, a new version）和删除某个版本的对象
 
-Access control - CORS
+**Access control - CORS**
+- 可自定义CORS策略
+
+Multipart Upload
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzcyNjQwNzQxLDIwMTY5MzcxNTAsNzg4MT
-Q2Nzg4LC0yMDcyNzE2Njk2LC0xNzk5ODEyNjMwLC0xNzgyMzgz
-MzAxLDE2OTU5ODU0MSwtMzc5Nzg5MTM3LDY3NTQ4NzU2LC0xNz
-gyMDMyNjk5LDE0MDAzMjY2MTcsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTExNDcxMTk1MTUsMjAxNjkzNzE1MCw3OD
+gxNDY3ODgsLTIwNzI3MTY2OTYsLTE3OTk4MTI2MzAsLTE3ODIz
+ODMzMDEsMTY5NTk4NTQxLC0zNzk3ODkxMzcsNjc1NDg3NTYsLT
+E3ODIwMzI2OTksMTQwMDMyNjYxNyw3MzA5OTgxMTZdfQ==
 -->
