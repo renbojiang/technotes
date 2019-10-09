@@ -77,7 +77,7 @@ https://aws.amazon.com/cn/s3/pricing
 - 操作
 	- Life Cycle Rules
 	- Lambda自定义策略
-	- 更改存储类
+	- 更改存储类 （智能分层）
 
 **Glacier**
 - 库锁 Vault Lock
@@ -86,9 +86,9 @@ https://aws.amazon.com/cn/s3/pricing
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDY5MDQ0NTMsLTQzNDM3NDA2MCwtMj
-U3MTE5NDA5LDIwMTY5MzcxNTAsNzg4MTQ2Nzg4LC0yMDcyNzE2
-Njk2LC0xNzk5ODEyNjMwLC0xNzgyMzgzMzAxLDE2OTU5ODU0MS
-wtMzc5Nzg5MTM3LDY3NTQ4NzU2LC0xNzgyMDMyNjk5LDE0MDAz
-MjY2MTcsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbNzU1OTQ5NjQzLC00MzQzNzQwNjAsLTI1Nz
+ExOTQwOSwyMDE2OTM3MTUwLDc4ODE0Njc4OCwtMjA3MjcxNjY5
+NiwtMTc5OTgxMjYzMCwtMTc4MjM4MzMwMSwxNjk1OTg1NDEsLT
+M3OTc4OTEzNyw2NzU0ODc1NiwtMTc4MjAzMjY5OSwxNDAwMzI2
+NjE3LDczMDk5ODExNl19
 -->
