@@ -40,6 +40,7 @@
 - 两级ACL： Object， Bucket 
 - 默认阻止所有公共访问权限
 - ACL主要控制人通过internet来访问S3的权限控制。 通过API来访问的控制，主要通过Role。
+- 公开一个对象，是针对对象，而不是针对对象URL
 
 **Bucket Policy**
 - 实现更精细的访问控制，比如可以限制从哪里来的访问控制
@@ -54,8 +55,8 @@
 - 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxNjkzNzE1MCw3ODgxNDY3ODgsLTIwNz
-I3MTY2OTYsLTE3OTk4MTI2MzAsLTE3ODIzODMzMDEsMTY5NTk4
-NTQxLC0zNzk3ODkxMzcsNjc1NDg3NTYsLTE3ODIwMzI2OTksMT
-QwMDMyNjYxNyw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbMzA2MzMxODQ1LDIwMTY5MzcxNTAsNzg4MT
+Q2Nzg4LC0yMDcyNzE2Njk2LC0xNzk5ODEyNjMwLC0xNzgyMzgz
+MzAxLDE2OTU5ODU0MSwtMzc5Nzg5MTM3LDY3NTQ4NzU2LC0xNz
+gyMDMyNjk5LDE0MDAzMjY2MTcsNzMwOTk4MTE2XX0=
 -->
