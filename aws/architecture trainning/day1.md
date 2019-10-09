@@ -97,15 +97,15 @@ https://aws.amazon.com/cn/s3/pricing
 	- a block device mapping
 	
 **选择AMI**
-	- x86/arm
-	- hvm / pv
-	- 64bit / 32 bit
-	- OS
-		- charge for seconds
-			- Amazon Linux
-			- Ubuntu
-		- charge for hours
-	- Launch Permission (Golden Image)
+- x86/arm
+- hvm / pv
+- 64bit / 32 bit
+- OS
+	- charge for seconds
+		- Amazon Linux
+		- Ubuntu
+	- charge for hours
+- Launch Permission (Golden Image)
 
 **EC2 Storage**
 - EBS (Elastic Block Store)
@@ -198,11 +198,11 @@ https://aws.amazon.com/cn/s3/pricing
 	- FSx
 		- Windows Workloads
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjg2MjQ2MzAsMTIzMzc3NDAxMCwxMT
-Q5NDA1NTAxLDEwNTAyOTk2NTQsLTE2MjMwODIwMzMsMjEyODI1
-MTM1NiwyMTIwODQ4NTk4LDExMjA1NzExMDksMTA0MTYzMzI1OC
-w1NDgzNTY1MzgsLTgwNzEyMTMyMiwxMjE0NzI5MjY3LDEzNjQw
-OTc3MjksLTU5OTIyNDM0Nyw3MjIxNTMxMzUsLTExMjgwNzU2ND
-IsNzU1OTQ5NjQzLC00MzQzNzQwNjAsLTI1NzExOTQwOSwyMDE2
-OTM3MTUwXX0=
+eyJoaXN0b3J5IjpbMTM4MTcwMjI1OCwxMjMzNzc0MDEwLDExND
+k0MDU1MDEsMTA1MDI5OTY1NCwtMTYyMzA4MjAzMywyMTI4MjUx
+MzU2LDIxMjA4NDg1OTgsMTEyMDU3MTEwOSwxMDQxNjMzMjU4LD
+U0ODM1NjUzOCwtODA3MTIxMzIyLDEyMTQ3MjkyNjcsMTM2NDA5
+NzcyOSwtNTk5MjI0MzQ3LDcyMjE1MzEzNSwtMTEyODA3NTY0Mi
+w3NTU5NDk2NDMsLTQzNDM3NDA2MCwtMjU3MTE5NDA5LDIwMTY5
+MzcxNTBdfQ==
 -->
