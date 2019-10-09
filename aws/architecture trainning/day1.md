@@ -107,7 +107,7 @@ https://aws.amazon.com/cn/s3/pricing
 		- charge for hours
 	- Launch Permission (Golden Image)
 
-**EC2根设备类型**
+**EC2 Storage**
 - EBS (Elastic Block Store)
 	- snapshot (保存进S3）
 	- 不在EBS里保存重要信息
@@ -115,13 +115,16 @@ https://aws.amazon.com/cn/s3/pricing
 - Instance storage
 	- 和EC2在一个主机上
 
+SSD
+- General Purpose SSD
+- 
+- 
 **M5.Large**
  - M: family name 
  - 5: generation number 
  - Large: the size of the instance
 
 **T系列**
-
  - 20%基线
  - credit
 
@@ -177,7 +180,7 @@ https://aws.amazon.com/cn/s3/pricing
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5NTE1MTUzOCwxMDUwMjk5NjU0LC0xNj
+eyJoaXN0b3J5IjpbMTc2MzgyMjgwMiwxMDUwMjk5NjU0LC0xNj
 IzMDgyMDMzLDIxMjgyNTEzNTYsMjEyMDg0ODU5OCwxMTIwNTcx
 MTA5LDEwNDE2MzMyNTgsNTQ4MzU2NTM4LC04MDcxMjEzMjIsMT
 IxNDcyOTI2NywxMzY0MDk3NzI5LC01OTkyMjQzNDcsNzIyMTUz
