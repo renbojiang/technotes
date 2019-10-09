@@ -111,12 +111,16 @@ https://aws.amazon.com/cn/s3/pricing
 - ebs
 - Instance storage
 
+**M5.Large**
+ - M: family name 
+ - 5: generation number 
+ - Large: the size of the instance
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjM4MDQ2NDkzLDcyMjE1MzEzNSwtMTEyOD
-A3NTY0Miw3NTU5NDk2NDMsLTQzNDM3NDA2MCwtMjU3MTE5NDA5
-LDIwMTY5MzcxNTAsNzg4MTQ2Nzg4LC0yMDcyNzE2Njk2LC0xNz
-k5ODEyNjMwLC0xNzgyMzgzMzAxLDE2OTU5ODU0MSwtMzc5Nzg5
-MTM3LDY3NTQ4NzU2LC0xNzgyMDMyNjk5LDE0MDAzMjY2MTcsNz
-MwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTU5OTIyNDM0Nyw3MjIxNTMxMzUsLTExMj
+gwNzU2NDIsNzU1OTQ5NjQzLC00MzQzNzQwNjAsLTI1NzExOTQw
+OSwyMDE2OTM3MTUwLDc4ODE0Njc4OCwtMjA3MjcxNjY5NiwtMT
+c5OTgxMjYzMCwtMTc4MjM4MzMwMSwxNjk1OTg1NDEsLTM3OTc4
+OTEzNyw2NzU0ODc1NiwtMTc4MjAzMjY5OSwxNDAwMzI2NjE3LD
+czMDk5ODExNl19
 -->
