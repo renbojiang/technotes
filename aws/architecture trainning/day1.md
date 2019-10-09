@@ -63,11 +63,13 @@
 **Upload/Download**
 - Multipart Upload 多路并行上传
 - Global Accelerate (Edge location: CloudFront)
-- Snowball 快递
+- Snowball 快递 / Snowmobile 集装箱
+- 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1NzExOTQwOSwyMDE2OTM3MTUwLDc4OD
-E0Njc4OCwtMjA3MjcxNjY5NiwtMTc5OTgxMjYzMCwtMTc4MjM4
-MzMwMSwxNjk1OTg1NDEsLTM3OTc4OTEzNyw2NzU0ODc1NiwtMT
-c4MjAzMjY5OSwxNDAwMzI2NjE3LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbLTQzNDM3NDA2MCwtMjU3MTE5NDA5LDIwMT
+Y5MzcxNTAsNzg4MTQ2Nzg4LC0yMDcyNzE2Njk2LC0xNzk5ODEy
+NjMwLC0xNzgyMzgzMzAxLDE2OTU5ODU0MSwtMzc5Nzg5MTM3LD
+Y3NTQ4NzU2LC0xNzgyMDMyNjk5LDE0MDAzMjY2MTcsNzMwOTk4
+MTE2XX0=
 -->
