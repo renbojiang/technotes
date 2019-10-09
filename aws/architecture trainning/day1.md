@@ -32,11 +32,11 @@
 - Event Trigger 
 - S3是global service，但S3 bucket必须属于某个region。
 - Bucket 名字是management partition唯一。 arn命名规则决定的。
-- S3对象命名：bucket.s3-region.amazonaws.com/object. 注意US East没有region名称。
+- S3对象命名：bucket.s3-region.amazonaws.com/object 或者 s3-region.amazonaws.com/bucket/object ，注意US East没有region名称。
 - 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2MDc2MDE2NCwxNjk1OTg1NDEsLTM3OT
+eyJoaXN0b3J5IjpbLTU4ODY3MjI3NywxNjk1OTg1NDEsLTM3OT
 c4OTEzNyw2NzU0ODc1NiwtMTc4MjAzMjY5OSwxNDAwMzI2NjE3
 LDczMDk5ODExNl19
 -->
