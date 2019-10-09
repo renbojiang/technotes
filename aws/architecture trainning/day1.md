@@ -149,13 +149,17 @@ https://aws.amazon.com/cn/s3/pricing
 - check instance metadata: 
 	- ```curl http://169.254.169.254/latest/meta-data/```
 	- ```curl http://169.254.169.254/latest/meta-data/instance-type```
-- 
+
+**EC2 Pricing Option**
+- On-demand
+	- 按使用量收费
+- Reserve
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0MTYzMzI1OCw1NDgzNTY1MzgsLTgwNz
-EyMTMyMiwxMjE0NzI5MjY3LDEzNjQwOTc3MjksLTU5OTIyNDM0
-Nyw3MjIxNTMxMzUsLTExMjgwNzU2NDIsNzU1OTQ5NjQzLC00Mz
-QzNzQwNjAsLTI1NzExOTQwOSwyMDE2OTM3MTUwLDc4ODE0Njc4
-OCwtMjA3MjcxNjY5NiwtMTc5OTgxMjYzMCwtMTc4MjM4MzMwMS
-wxNjk1OTg1NDEsLTM3OTc4OTEzNyw2NzU0ODc1NiwtMTc4MjAz
-MjY5OV19
+eyJoaXN0b3J5IjpbLTExNjIzNTkyNTQsMTA0MTYzMzI1OCw1ND
+gzNTY1MzgsLTgwNzEyMTMyMiwxMjE0NzI5MjY3LDEzNjQwOTc3
+MjksLTU5OTIyNDM0Nyw3MjIxNTMxMzUsLTExMjgwNzU2NDIsNz
+U1OTQ5NjQzLC00MzQzNzQwNjAsLTI1NzExOTQwOSwyMDE2OTM3
+MTUwLDc4ODE0Njc4OCwtMjA3MjcxNjY5NiwtMTc5OTgxMjYzMC
+wtMTc4MjM4MzMwMSwxNjk1OTg1NDEsLTM3OTc4OTEzNyw2NzU0
+ODc1Nl19
 -->
