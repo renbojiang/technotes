@@ -68,9 +68,11 @@
 收费
 - Storage: $0.023GB/Month
 - Transfer out: to other region or internet. $0.09/GB
-- API call: 
+- API calls
+https://aws.amazon.com/s3/pricing
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1ODY3NjAyNCwtNDM0Mzc0MDYwLC0yNT
+eyJoaXN0b3J5IjpbMTYyNzEwMzg3NCwtNDM0Mzc0MDYwLC0yNT
 cxMTk0MDksMjAxNjkzNzE1MCw3ODgxNDY3ODgsLTIwNzI3MTY2
 OTYsLTE3OTk4MTI2MzAsLTE3ODIzODMzMDEsMTY5NTk4NTQxLC
 0zNzk3ODkxMzcsNjc1NDg3NTYsLTE3ODIwMzI2OTksMTQwMDMy
