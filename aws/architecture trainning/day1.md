@@ -124,10 +124,14 @@ https://aws.amazon.com/cn/s3/pricing
 **C系列**
 - Nitro
 - 99.99%裸机性能
-- 1：
+- 1：2 cpu：memory
+
+R系列
+1：8 cpu：memory
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0NTA1NDI3NiwtNTk5MjI0MzQ3LDcyMj
+eyJoaXN0b3J5IjpbMTU5OTI4ODAzNSwtNTk5MjI0MzQ3LDcyMj
 E1MzEzNSwtMTEyODA3NTY0Miw3NTU5NDk2NDMsLTQzNDM3NDA2
 MCwtMjU3MTE5NDA5LDIwMTY5MzcxNTAsNzg4MTQ2Nzg4LC0yMD
 cyNzE2Njk2LC0xNzk5ODEyNjMwLC0xNzgyMzgzMzAxLDE2OTU5
