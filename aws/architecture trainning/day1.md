@@ -65,16 +65,17 @@
 - Global Accelerate (Edge location: CloudFront)
 - Snowball 快递 / Snowmobile 集装箱
 
-收费
+**收费**
 - Storage: $0.023GB/Month
 - Transfer out: to other region or internet. $0.09/GB
-- API calls
-https://aws.amazon.com/s3/pricing
-不要将零散的平凡访问的数据放进S3
+- API calls: 不要将零散的平凡访问的数据放进S3
+https://aws.amazon.com/cn/s3/pricing
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjg3NzA4OTEsLTQzNDM3NDA2MCwtMj
-U3MTE5NDA5LDIwMTY5MzcxNTAsNzg4MTQ2Nzg4LC0yMDcyNzE2
-Njk2LC0xNzk5ODEyNjMwLC0xNzgyMzgzMzAxLDE2OTU5ODU0MS
-wtMzc5Nzg5MTM3LDY3NTQ4NzU2LC0xNzgyMDMyNjk5LDE0MDAz
-MjY2MTcsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbMTY4MzgyMjk0NSwtNDM0Mzc0MDYwLC0yNT
+cxMTk0MDksMjAxNjkzNzE1MCw3ODgxNDY3ODgsLTIwNzI3MTY2
+OTYsLTE3OTk4MTI2MzAsLTE3ODIzODMzMDEsMTY5NTk4NTQxLC
+0zNzk3ODkxMzcsNjc1NDg3NTYsLTE3ODIwMzI2OTksMTQwMDMy
+NjYxNyw3MzA5OTgxMTZdfQ==
 -->
