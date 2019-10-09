@@ -30,10 +30,11 @@
 # Module 2
 ### S3
 - Object-level storage (vs. block storage)
+- 99.99 (4个9) availability , 99... 9 (11个9) durability
 - 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0NDA1MjU5NiwtMzc5Nzg5MTM3LDY3NT
-Q4NzU2LC0xNzgyMDMyNjk5LDE0MDAzMjY2MTcsNzMwOTk4MTE2
-XX0=
+eyJoaXN0b3J5IjpbLTIwOTg3ODIyMTAsLTM3OTc4OTEzNyw2Nz
+U0ODc1NiwtMTc4MjAzMjY5OSwxNDAwMzI2NjE3LDczMDk5ODEx
+Nl19
 -->
