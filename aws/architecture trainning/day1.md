@@ -126,12 +126,18 @@ https://aws.amazon.com/cn/s3/pricing
 - 99.99%裸机性能
 - 1：2 cpu：memory
 
-R系列
-1：8 cpu：memory
+**R系列**
+- 1：8 cpu：memory
 
+**P系列**
+- 1：8 cpu：memory
+- Deep Learning
 
+H系列
+- instance strorage
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5OTI4ODAzNSwtNTk5MjI0MzQ3LDcyMj
+eyJoaXN0b3J5IjpbLTM3OTYyMDY3MCwtNTk5MjI0MzQ3LDcyMj
 E1MzEzNSwtMTEyODA3NTY0Miw3NTU5NDk2NDMsLTQzNDM3NDA2
 MCwtMjU3MTE5NDA5LDIwMTY5MzcxNTAsNzg4MTQ2Nzg4LC0yMD
 cyNzE2Njk2LC0xNzk5ODEyNjMwLC0xNzgyMzgzMzAxLDE2OTU5
