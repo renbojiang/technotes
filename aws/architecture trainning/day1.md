@@ -188,7 +188,7 @@ https://aws.amazon.com/cn/s3/pricing
 - 以spot对付业务激增
 - 以On-demand对付增长
 
-Shared File System
+**Shared File System**
 - EBS (Cann't)
 - S3 (can but not ideal)
 - EFS/FSx
@@ -197,13 +197,12 @@ Shared File System
 		- Linux Workloads
 	- FSx
 		- Windows Workloads
-		-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjQ3OTk2MDEsMTE0OTQwNTUwMSwxMD
-UwMjk5NjU0LC0xNjIzMDgyMDMzLDIxMjgyNTEzNTYsMjEyMDg0
-ODU5OCwxMTIwNTcxMTA5LDEwNDE2MzMyNTgsNTQ4MzU2NTM4LC
-04MDcxMjEzMjIsMTIxNDcyOTI2NywxMzY0MDk3NzI5LC01OTky
-MjQzNDcsNzIyMTUzMTM1LC0xMTI4MDc1NjQyLDc1NTk0OTY0My
-wtNDM0Mzc0MDYwLC0yNTcxMTk0MDksMjAxNjkzNzE1MCw3ODgx
-NDY3ODhdfQ==
+eyJoaXN0b3J5IjpbMTIzMzc3NDAxMCwxMTQ5NDA1NTAxLDEwNT
+AyOTk2NTQsLTE2MjMwODIwMzMsMjEyODI1MTM1NiwyMTIwODQ4
+NTk4LDExMjA1NzExMDksMTA0MTYzMzI1OCw1NDgzNTY1MzgsLT
+gwNzEyMTMyMiwxMjE0NzI5MjY3LDEzNjQwOTc3MjksLTU5OTIy
+NDM0Nyw3MjIxNTMxMzUsLTExMjgwNzU2NDIsNzU1OTQ5NjQzLC
+00MzQzNzQwNjAsLTI1NzExOTQwOSwyMDE2OTM3MTUwLDc4ODE0
+Njc4OF19
 -->
