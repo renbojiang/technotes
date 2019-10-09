@@ -34,6 +34,7 @@
 - Bucket 名字是management partition唯一。 arn命名规则决定的。
 - S3对象命名：bucket.s3-region.amazonaws.com/object 或者 s3-region.amazonaws.com/bucket/object ，注意US East没有region名称。
 - S3对象的键值总是包含路劲的。
+- 可以方便实现托管静态站点
 
 **ACL**
 - 两级ACL： Object， Bucket 
@@ -49,8 +50,8 @@
 - Resource Policy
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzI3MTY2OTYsLTE3OTk4MTI2MzAsLT
-E3ODIzODMzMDEsMTY5NTk4NTQxLC0zNzk3ODkxMzcsNjc1NDg3
-NTYsLTE3ODIwMzI2OTksMTQwMDMyNjYxNyw3MzA5OTgxMTZdfQ
-==
+eyJoaXN0b3J5IjpbNzg4MTQ2Nzg4LC0yMDcyNzE2Njk2LC0xNz
+k5ODEyNjMwLC0xNzgyMzgzMzAxLDE2OTU5ODU0MSwtMzc5Nzg5
+MTM3LDY3NTQ4NzU2LC0xNzgyMDMyNjk5LDE0MDAzMjY2MTcsNz
+MwOTk4MTE2XX0=
 -->
