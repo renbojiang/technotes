@@ -163,7 +163,8 @@ https://aws.amazon.com/cn/s3/pricing
 	- 20% ~ 30% on-demand price
 	- offline notification: 2min by meta-data
 	- 竞价休眠模式
-
+- Dedicated Instance
+	- Dedicated host
 
 **购买建议**
 - 以最低维持业务的标准购买RI
@@ -171,7 +172,7 @@ https://aws.amazon.com/cn/s3/pricing
 - 以On-demand对付增长
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDUyODI1OTEsLTE2MjMwODIwMzMsMj
+eyJoaXN0b3J5IjpbLTEyNzQ2MDA2NTYsLTE2MjMwODIwMzMsMj
 EyODI1MTM1NiwyMTIwODQ4NTk4LDExMjA1NzExMDksMTA0MTYz
 MzI1OCw1NDgzNTY1MzgsLTgwNzEyMTMyMiwxMjE0NzI5MjY3LD
 EzNjQwOTc3MjksLTU5OTIyNDM0Nyw3MjIxNTMxMzUsLTExMjgw
