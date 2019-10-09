@@ -164,9 +164,10 @@ https://aws.amazon.com/cn/s3/pricing
 	- offline notification: 2min by meta-data
 	- 竞价休眠模式
 
-
+- 以最低维持业务的标准购买R
+- 以On
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0MDAxMTUyNiwyMTI4MjUxMzU2LDIxMj
+eyJoaXN0b3J5IjpbLTY3MzQ5NDI5NywyMTI4MjUxMzU2LDIxMj
 A4NDg1OTgsMTEyMDU3MTEwOSwxMDQxNjMzMjU4LDU0ODM1NjUz
 OCwtODA3MTIxMzIyLDEyMTQ3MjkyNjcsMTM2NDA5NzcyOSwtNT
 k5MjI0MzQ3LDcyMjE1MzEzNSwtMTEyODA3NTY0Miw3NTU5NDk2
