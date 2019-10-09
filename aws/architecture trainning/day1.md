@@ -30,10 +30,11 @@
 - Object-level storage (vs. block storage)
 - 99.99% (4个9) availability , 99.9.. 9% (11个9) durability
 - Event Trigger 
+- S3是global service，但S3 bucket必须属于某个region。Bucket 名字全球唯一
 - 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2OTIxMjMwLC0zNzk3ODkxMzcsNjc1ND
-g3NTYsLTE3ODIwMzI2OTksMTQwMDMyNjYxNyw3MzA5OTgxMTZd
-fQ==
+eyJoaXN0b3J5IjpbLTc3NjgwMzE5OCwtMzc5Nzg5MTM3LDY3NT
+Q4NzU2LC0xNzgyMDMyNjk5LDE0MDAzMjY2MTcsNzMwOTk4MTE2
+XX0=
 -->
