@@ -87,10 +87,10 @@ https://aws.amazon.com/cn/s3/pricing
 ## Module 3
 
 **EC2**
-- 一次性计算资源
-- 
+- 一次性计算资源 
+- 不保存状态信息
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3MDU1NDk5NCwtMTEyODA3NTY0Miw3NT
+eyJoaXN0b3J5IjpbLTE2ODAwNjY2MSwtMTEyODA3NTY0Miw3NT
 U5NDk2NDMsLTQzNDM3NDA2MCwtMjU3MTE5NDA5LDIwMTY5Mzcx
 NTAsNzg4MTQ2Nzg4LC0yMDcyNzE2Njk2LC0xNzk5ODEyNjMwLC
 0xNzgyMzgzMzAxLDE2OTU5ODU0MSwtMzc5Nzg5MTM3LDY3NTQ4
