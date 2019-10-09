@@ -35,6 +35,7 @@
 - S3对象命名：bucket.s3-region.amazonaws.com/object 或者 s3-region.amazonaws.com/bucket/object ，注意US East没有region名称。
 - S3对象的键值总是包含路劲的。
 - 可以方便实现托管静态站点
+- 主要存放非结构化数据
 
 **ACL**
 - 两级ACL： Object， Bucket 
@@ -59,7 +60,7 @@ Access control - CORS
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTgyNTM1MjE1LDIwMTY5MzcxNTAsNzg4MT
+eyJoaXN0b3J5IjpbNzcyNjQwNzQxLDIwMTY5MzcxNTAsNzg4MT
 Q2Nzg4LC0yMDcyNzE2Njk2LC0xNzk5ODEyNjMwLC0xNzgyMzgz
 MzAxLDE2OTU5ODU0MSwtMzc5Nzg5MTM3LDY3NTQ4NzU2LC0xNz
 gyMDMyNjk5LDE0MDAzMjY2MTcsNzMwOTk4MTE2XX0=
