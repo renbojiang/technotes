@@ -161,13 +161,14 @@ https://aws.amazon.com/cn/s3/pricing
 	- 开启on-demand时，如果符合Reserved Instance，自动转化为RI
 - Spot
 	- 20% ~ 30% on-demand price
+	- offline notification: 2min by meta-data
 	- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyODI1MTM1NiwyMTIwODQ4NTk4LDExMj
-A1NzExMDksMTA0MTYzMzI1OCw1NDgzNTY1MzgsLTgwNzEyMTMy
-MiwxMjE0NzI5MjY3LDEzNjQwOTc3MjksLTU5OTIyNDM0Nyw3Mj
-IxNTMxMzUsLTExMjgwNzU2NDIsNzU1OTQ5NjQzLC00MzQzNzQw
-NjAsLTI1NzExOTQwOSwyMDE2OTM3MTUwLDc4ODE0Njc4OCwtMj
-A3MjcxNjY5NiwtMTc5OTgxMjYzMCwtMTc4MjM4MzMwMSwxNjk1
-OTg1NDFdfQ==
+eyJoaXN0b3J5IjpbLTE1NzE0MTg0MzIsMjEyODI1MTM1NiwyMT
+IwODQ4NTk4LDExMjA1NzExMDksMTA0MTYzMzI1OCw1NDgzNTY1
+MzgsLTgwNzEyMTMyMiwxMjE0NzI5MjY3LDEzNjQwOTc3MjksLT
+U5OTIyNDM0Nyw3MjIxNTMxMzUsLTExMjgwNzU2NDIsNzU1OTQ5
+NjQzLC00MzQzNzQwNjAsLTI1NzExOTQwOSwyMDE2OTM3MTUwLD
+c4ODE0Njc4OCwtMjA3MjcxNjY5NiwtMTc5OTgxMjYzMCwtMTc4
+MjM4MzMwMV19
 -->
