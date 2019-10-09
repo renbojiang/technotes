@@ -28,10 +28,12 @@
 #### 全托管服务
 
 # Module 2
-
+### S3
+- Object-level storage (vs. block storage)
+- 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxMzMyMjk0OCwtMzc5Nzg5MTM3LDY3NT
+eyJoaXN0b3J5IjpbLTU0NDA1MjU5NiwtMzc5Nzg5MTM3LDY3NT
 Q4NzU2LC0xNzgyMDMyNjk5LDE0MDAzMjY2MTcsNzMwOTk4MTE2
 XX0=
 -->
