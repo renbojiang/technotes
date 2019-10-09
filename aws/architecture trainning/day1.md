@@ -140,7 +140,8 @@ https://aws.amazon.com/cn/s3/pricing
 **Tips**
 - ECU 是性能指标
 - 不确定EC2 type的时候，从M系列开始，用cloudwatch观察，然后替换
-- IaC: Infrastructure as Code\
+- IaC: Infrastructure as Code
+- EC2 stop/start 一定会换硬件系统，进入一个新的计费周期。但restart不进入新的计费周期。
 
 **User Data**
 - User Data是以root身份执行的
@@ -150,11 +151,11 @@ https://aws.amazon.com/cn/s3/pricing
 	- ```curl http://169.254.169.254/latest/meta-data/instance-type```
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODg4NjEwODEwLDU0ODM1NjUzOCwtODA3MT
-IxMzIyLDEyMTQ3MjkyNjcsMTM2NDA5NzcyOSwtNTk5MjI0MzQ3
-LDcyMjE1MzEzNSwtMTEyODA3NTY0Miw3NTU5NDk2NDMsLTQzND
-M3NDA2MCwtMjU3MTE5NDA5LDIwMTY5MzcxNTAsNzg4MTQ2Nzg4
-LC0yMDcyNzE2Njk2LC0xNzk5ODEyNjMwLC0xNzgyMzgzMzAxLD
-E2OTU5ODU0MSwtMzc5Nzg5MTM3LDY3NTQ4NzU2LC0xNzgyMDMy
-Njk5XX0=
+eyJoaXN0b3J5IjpbMTA0MTYzMzI1OCw1NDgzNTY1MzgsLTgwNz
+EyMTMyMiwxMjE0NzI5MjY3LDEzNjQwOTc3MjksLTU5OTIyNDM0
+Nyw3MjIxNTMxMzUsLTExMjgwNzU2NDIsNzU1OTQ5NjQzLC00Mz
+QzNzQwNjAsLTI1NzExOTQwOSwyMDE2OTM3MTUwLDc4ODE0Njc4
+OCwtMjA3MjcxNjY5NiwtMTc5OTgxMjYzMCwtMTc4MjM4MzMwMS
+wxNjk1OTg1NDEsLTM3OTc4OTEzNyw2NzU0ODc1NiwtMTc4MjAz
+MjY5OV19
 -->
