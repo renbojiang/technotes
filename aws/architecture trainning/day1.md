@@ -140,15 +140,18 @@ https://aws.amazon.com/cn/s3/pricing
 **Tips**
 - ECU 是性能指标
 - 不确定EC2 type的时候，从M系列开始，用cloudwatch观察，然后替换
+
+**User Data**
 - User Data是以root身份执行的
 - User Data可以通过code deploy发布
+- check instance metadata: ```curl http://169.254.169.254/latest/meta-data/```
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwNzEyMTMyMiwxMjE0NzI5MjY3LDEzNj
-QwOTc3MjksLTU5OTIyNDM0Nyw3MjIxNTMxMzUsLTExMjgwNzU2
-NDIsNzU1OTQ5NjQzLC00MzQzNzQwNjAsLTI1NzExOTQwOSwyMD
-E2OTM3MTUwLDc4ODE0Njc4OCwtMjA3MjcxNjY5NiwtMTc5OTgx
-MjYzMCwtMTc4MjM4MzMwMSwxNjk1OTg1NDEsLTM3OTc4OTEzNy
-w2NzU0ODc1NiwtMTc4MjAzMjY5OSwxNDAwMzI2NjE3LDczMDk5
-ODExNl19
+eyJoaXN0b3J5IjpbMjA5OTk1ODQsLTgwNzEyMTMyMiwxMjE0Nz
+I5MjY3LDEzNjQwOTc3MjksLTU5OTIyNDM0Nyw3MjIxNTMxMzUs
+LTExMjgwNzU2NDIsNzU1OTQ5NjQzLC00MzQzNzQwNjAsLTI1Nz
+ExOTQwOSwyMDE2OTM3MTUwLDc4ODE0Njc4OCwtMjA3MjcxNjY5
+NiwtMTc5OTgxMjYzMCwtMTc4MjM4MzMwMSwxNjk1OTg1NDEsLT
+M3OTc4OTEzNyw2NzU0ODc1NiwtMTc4MjAzMjY5OSwxNDAwMzI2
+NjE3XX0=
 -->
