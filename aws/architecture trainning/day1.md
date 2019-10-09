@@ -156,9 +156,11 @@ https://aws.amazon.com/cn/s3/pricing
 - Reserved
 	- 提前付费（0 ~ full）
 	- 12个月 ~ 36个月
-	- RI Mar
+	- RI Market
+	- 不建议大量购买
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2MjcxNjE0NCwxMTIwNTcxMTA5LDEwND
+eyJoaXN0b3J5IjpbMjEyMDg0ODU5OCwxMTIwNTcxMTA5LDEwND
 E2MzMyNTgsNTQ4MzU2NTM4LC04MDcxMjEzMjIsMTIxNDcyOTI2
 NywxMzY0MDk3NzI5LC01OTkyMjQzNDcsNzIyMTUzMTM1LC0xMT
 I4MDc1NjQyLDc1NTk0OTY0MywtNDM0Mzc0MDYwLC0yNTcxMTk0
