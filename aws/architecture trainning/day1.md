@@ -164,7 +164,7 @@ https://aws.amazon.com/cn/s3/pricing
 	- offline notification: 2min by meta-data
 	- 竞价休眠模式
 - Dedicated Instance
-	- Dedicated host
+- Dedicated host
 
 **购买建议**
 - 以最低维持业务的标准购买RI
@@ -172,11 +172,11 @@ https://aws.amazon.com/cn/s3/pricing
 - 以On-demand对付增长
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzQ2MDA2NTYsLTE2MjMwODIwMzMsMj
-EyODI1MTM1NiwyMTIwODQ4NTk4LDExMjA1NzExMDksMTA0MTYz
-MzI1OCw1NDgzNTY1MzgsLTgwNzEyMTMyMiwxMjE0NzI5MjY3LD
-EzNjQwOTc3MjksLTU5OTIyNDM0Nyw3MjIxNTMxMzUsLTExMjgw
-NzU2NDIsNzU1OTQ5NjQzLC00MzQzNzQwNjAsLTI1NzExOTQwOS
-wyMDE2OTM3MTUwLDc4ODE0Njc4OCwtMjA3MjcxNjY5NiwtMTc5
-OTgxMjYzMF19
+eyJoaXN0b3J5IjpbMzExODI1NjI0LC0xNjIzMDgyMDMzLDIxMj
+gyNTEzNTYsMjEyMDg0ODU5OCwxMTIwNTcxMTA5LDEwNDE2MzMy
+NTgsNTQ4MzU2NTM4LC04MDcxMjEzMjIsMTIxNDcyOTI2NywxMz
+Y0MDk3NzI5LC01OTkyMjQzNDcsNzIyMTUzMTM1LC0xMTI4MDc1
+NjQyLDc1NTk0OTY0MywtNDM0Mzc0MDYwLC0yNTcxMTk0MDksMj
+AxNjkzNzE1MCw3ODgxNDY3ODgsLTIwNzI3MTY2OTYsLTE3OTk4
+MTI2MzBdfQ==
 -->
