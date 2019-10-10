@@ -109,15 +109,15 @@
 
 ## Load Balancing
 ALB, NLB, CLB
-|| CLB | ALB|
-|--|--|--|
+|| CLB | ALB| NLB
+|--|--|--|--|
 |health check  | ping | listener |
 |backend | EC2 | target group |
 |源地址|开启proxy protocol|后端更容易拿到源IP信息
 |ssl offload| https external, http internal，证书轮转 | ACM
-
+|security | |内嵌WAF |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0NDk5OTYyMCwtMTU0NTU2ODExNSwxNT
+eyJoaXN0b3J5IjpbMTQ1OTE1ODEzOSwtMTU0NTU2ODExNSwxNT
 Q5NDM1NzMxLC0xMzI1ODM1NzA5LC0xNzc0OTMyMzI4LDEyNjg1
 OTc3NTgsLTExMDg1MTA5OSw4ODAyMTI1MjEsNDA1MDYwNDEyLC
 0yOTI0MTY5MTYsLTc4ODUyOTE5LDE2MDEzNTkyMDgsNTM5NTky
