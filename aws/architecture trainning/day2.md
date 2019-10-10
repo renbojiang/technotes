@@ -73,10 +73,12 @@
 > 比如80，443，22各一个。
 > 然后把多个security group 关联到一个多个ENI
 
-Access Control List (ACLs
+**Access Control List (ACLs)**
+- stateless (in/out 都要检查), require explicit rules for both inbound and outbound traffic
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwNTE2OTY5OSwxMjM3OTE5NjExLDE1MD
-M3ODQ3NzYsLTI3Mzk2NTgxMywtMTA2MDIzMjM3MSwxNjY4MTYx
-MDUzLDgxMTAzODU5OCwtMTE3NTE3NDE0OSwtMjEyMDI0Mzk1LC
-0xMzE5OTAzNzYzLDQyNDM5MzU4MywxODM4NTE2NzQ1XX0=
+eyJoaXN0b3J5IjpbNTM5NTkyMTc3LDEyMzc5MTk2MTEsMTUwMz
+c4NDc3NiwtMjczOTY1ODEzLC0xMDYwMjMyMzcxLDE2NjgxNjEw
+NTMsODExMDM4NTk4LC0xMTc1MTc0MTQ5LC0yMTIwMjQzOTUsLT
+EzMTk5MDM3NjMsNDI0MzkzNTgzLDE4Mzg1MTY3NDVdfQ==
 -->
