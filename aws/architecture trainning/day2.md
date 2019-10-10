@@ -89,13 +89,17 @@
 - transitive peering are NOT supported
 - 可以实现cross region的efs 共享文件挂载
 
-
+Resource Access Manager
+- share Transition Gateway
+- DNS rulers
+- Subnet
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzQ5MzIzMjgsMTI2ODU5Nzc1OCwtMT
-EwODUxMDk5LDg4MDIxMjUyMSw0MDUwNjA0MTIsLTI5MjQxNjkx
-NiwtNzg4NTI5MTksMTYwMTM1OTIwOCw1Mzk1OTIxNzcsMTIzNz
-kxOTYxMSwxNTAzNzg0Nzc2LC0yNzM5NjU4MTMsLTEwNjAyMzIz
-NzEsMTY2ODE2MTA1Myw4MTEwMzg1OTgsLTExNzUxNzQxNDksLT
-IxMjAyNDM5NSwtMTMxOTkwMzc2Myw0MjQzOTM1ODMsMTgzODUx
-Njc0NV19
+eyJoaXN0b3J5IjpbLTIwODI0NDYwODYsLTE3NzQ5MzIzMjgsMT
+I2ODU5Nzc1OCwtMTEwODUxMDk5LDg4MDIxMjUyMSw0MDUwNjA0
+MTIsLTI5MjQxNjkxNiwtNzg4NTI5MTksMTYwMTM1OTIwOCw1Mz
+k1OTIxNzcsMTIzNzkxOTYxMSwxNTAzNzg0Nzc2LC0yNzM5NjU4
+MTMsLTEwNjAyMzIzNzEsMTY2ODE2MTA1Myw4MTEwMzg1OTgsLT
+ExNzUxNzQxNDksLTIxMjAyNDM5NSwtMTMxOTkwMzc2Myw0MjQz
+OTM1ODNdfQ==
 -->
