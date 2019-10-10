@@ -10,7 +10,12 @@
 - CIDR: /24 (256) ~ /16 (65536)
 
 **VPC Plus**
-- 可追加4个网段
+- 可追加4个网段 （比如： 10.10.0.0/16, 10.11.0.0/16）
+- 通过route table  让各个CIDR互连
+|  |  |
+|--|--|
+|  |  |
+
 
 **TIPS**
 AWS里没有用broadcast，组播
@@ -31,6 +36,6 @@ AWS里没有用broadcast，组播
 - 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjAyNDM5NSwtMTMxOTkwMzc2Myw0Mj
-QzOTM1ODMsMTgzODUxNjc0NV19
+eyJoaXN0b3J5IjpbMTYwODU1MzI2NSwtMjEyMDI0Mzk1LC0xMz
+E5OTAzNzYzLDQyNDM5MzU4MywxODM4NTE2NzQ1XX0=
 -->
