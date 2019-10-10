@@ -94,12 +94,14 @@
 - DNS resolve rules
 - Subnet
 - Reserved Capacity
+- 许可证配置
+- ...
 
 **Reserved Instance VS. Reserved Capacity**
 - RI只是购买方式
 - 真正预留资源是RC
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDA2MTc5NDYsLTE3NzQ5MzIzMjgsMT
+eyJoaXN0b3J5IjpbLTEzMjU4MzU3MDksLTE3NzQ5MzIzMjgsMT
 I2ODU5Nzc1OCwtMTEwODUxMDk5LDg4MDIxMjUyMSw0MDUwNjA0
 MTIsLTI5MjQxNjkxNiwtNzg4NTI5MTksMTYwMTM1OTIwOCw1Mz
 k1OTIxNzcsMTIzNzkxOTYxMSwxNTAzNzg0Nzc2LC0yNzM5NjU4
