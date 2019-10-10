@@ -40,12 +40,12 @@ AWS里没有用broadcast，组播
 	- Public IP
 	- Public Route Table (0.0.0.0/0)
 	- Allow 0.0.0.0/0
-- NAT Gateway 是在public subnet的。outbound public internet access
+- NAT Gateway 是在public subnet的，具有public ip。outbound public internet access
 - 
 - 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0MTU0MjExLDgxMTAzODU5OCwtMTE3NT
-E3NDE0OSwtMjEyMDI0Mzk1LC0xMzE5OTAzNzYzLDQyNDM5MzU4
-MywxODM4NTE2NzQ1XX0=
+eyJoaXN0b3J5IjpbMTY2ODE2MTA1Myw4MTEwMzg1OTgsLTExNz
+UxNzQxNDksLTIxMjAyNDM5NSwtMTMxOTkwMzc2Myw0MjQzOTM1
+ODMsMTgzODUxNjc0NV19
 -->
