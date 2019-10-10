@@ -5,7 +5,9 @@ Multi-VPC Pattern
 Multi-Account Pattern
 
 Limits
-5 V
+5 VPCs per region per account
+CIDR: /28 (255) ~ /16 (65535)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzg0Mjg2NzYsMTgzODUxNjc0NV19
+eyJoaXN0b3J5IjpbLTIwNTc1ODEyMjgsMTgzODUxNjc0NV19
 -->
