@@ -109,14 +109,14 @@
 
 ## Load Balancing
 ALB, NLB, CLB
-|| CLB | 
+|| CLB | ALB|
 |--|--|--|
-|health check  | ping |
+|health check  | ping | listener 
 |backend | EC2 |
 |源地址|开启proxy protocol|
 |ssl offload| https external, http internal |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5NjY0MzgyLDE1NDk0MzU3MzEsLTEzMj
+eyJoaXN0b3J5IjpbNDQ3MDQ5NDE3LDE1NDk0MzU3MzEsLTEzMj
 U4MzU3MDksLTE3NzQ5MzIzMjgsMTI2ODU5Nzc1OCwtMTEwODUx
 MDk5LDg4MDIxMjUyMSw0MDUwNjA0MTIsLTI5MjQxNjkxNiwtNz
 g4NTI5MTksMTYwMTM1OTIwOCw1Mzk1OTIxNzcsMTIzNzkxOTYx
