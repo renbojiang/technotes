@@ -36,10 +36,13 @@ AWS里没有用broadcast，组播
 - AWS reserve file IP for each subnet
 - Use custom route tables for each subnet
 - public subnet should meeting 4 requirements
-	- 
+	- VPC -> IGW
+	- Public IP
+	- Public Route Table (0.0.0.0/0)
+	- Allow 0.0.0.0/0
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTI4MzQzNDYsLTExNzUxNzQxNDksLT
-IxMjAyNDM5NSwtMTMxOTkwMzc2Myw0MjQzOTM1ODMsMTgzODUx
-Njc0NV19
+eyJoaXN0b3J5IjpbMTM3ODc1Mzc3MCwtMTE3NTE3NDE0OSwtMj
+EyMDI0Mzk1LC0xMzE5OTAzNzYzLDQyNDM5MzU4MywxODM4NTE2
+NzQ1XX0=
 -->
