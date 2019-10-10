@@ -63,8 +63,10 @@
 
 Elastic IP
 - 申请但不使用要付费
+- Five allowed for AWS region
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxMzA1MTUyNywxNTAzNzg0Nzc2LC0yNz
+eyJoaXN0b3J5IjpbLTY3MzkxOTQzMSwxNTAzNzg0Nzc2LC0yNz
 M5NjU4MTMsLTEwNjAyMzIzNzEsMTY2ODE2MTA1Myw4MTEwMzg1
 OTgsLTExNzUxNzQxNDksLTIxMjAyNDM5NSwtMTMxOTkwMzc2My
 w0MjQzOTM1ODMsMTgzODUxNjc0NV19
