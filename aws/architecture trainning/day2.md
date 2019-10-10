@@ -41,13 +41,17 @@
 	- Public IP
 	- Public Route Table (0.0.0.0/0)
 	- Allow 0.0.0.0/0
+
+NAT Gateway （NGW）
 - NAT Gateway 是在public subnet的，具有public ip （Elastic IP）。
-- NAT Gateway： outbound public internet access。访问其他AWS service也会经过NGW。
-- 
+- NAT Gateway： outbound public internet access。
+- 访问其他AWS service也会经过NGW。
+- 确保每个AZ有一个NGW
 - 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQ4MTI4NTMsLTEwNjAyMzIzNzEsMTY2OD
-E2MTA1Myw4MTEwMzg1OTgsLTExNzUxNzQxNDksLTIxMjAyNDM5
-NSwtMTMxOTkwMzc2Myw0MjQzOTM1ODMsMTgzODUxNjc0NV19
+eyJoaXN0b3J5IjpbMTAyMzMzNjU2NiwtMTA2MDIzMjM3MSwxNj
+Y4MTYxMDUzLDgxMTAzODU5OCwtMTE3NTE3NDE0OSwtMjEyMDI0
+Mzk1LC0xMzE5OTAzNzYzLDQyNDM5MzU4MywxODM4NTE2NzQ1XX
+0=
 -->
