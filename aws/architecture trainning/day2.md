@@ -53,11 +53,13 @@
 
 ENI
 - security group
-- private/public IP
-- ela
+- private IP
+- elastic ip 
+- mac address
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1ODI0MTc4NCwtMjczOTY1ODEzLC0xMD
+eyJoaXN0b3J5IjpbMTA0ODg3Mzk2OCwtMjczOTY1ODEzLC0xMD
 YwMjMyMzcxLDE2NjgxNjEwNTMsODExMDM4NTk4LC0xMTc1MTc0
 MTQ5LC0yMTIwMjQzOTUsLTEzMTk5MDM3NjMsNDI0MzkzNTgzLD
 E4Mzg1MTY3NDVdfQ==
