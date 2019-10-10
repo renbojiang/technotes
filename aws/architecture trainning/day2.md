@@ -12,6 +12,11 @@
 **VPC Plus**
 - 可追加4个网段 （比如： 10.10.0.0/16, 10.11.0.0/16）
 - 通过route table  让各个CIDR互连
+|destination | target |
+|--|--|
+|10.10.0.0/16 | local  |
+|10.11.0.0/16 | local  |
+
 |  |  |
 |--|--|
 |  |  |
@@ -36,6 +41,6 @@ AWS里没有用broadcast，组播
 - 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwODU1MzI2NSwtMjEyMDI0Mzk1LC0xMz
+eyJoaXN0b3J5IjpbLTQ3OTg3NzgwOSwtMjEyMDI0Mzk1LC0xMz
 E5OTAzNzYzLDQyNDM5MzU4MywxODM4NTE2NzQ1XX0=
 -->
