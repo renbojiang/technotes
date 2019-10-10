@@ -78,14 +78,14 @@
 - 默认设置： allow 所有in/out bound
 
 ## Networking Part 2
-Virtual Private Gateway
-establish private connection between AWS VPC and another network
+**Virtual Private Gateway (VGW)**
+- establish private connection between AWS VPC and another network
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1NjI0NDg3MCwtMjkyNDE2OTE2LC03OD
-g1MjkxOSwxNjAxMzU5MjA4LDUzOTU5MjE3NywxMjM3OTE5NjEx
-LDE1MDM3ODQ3NzYsLTI3Mzk2NTgxMywtMTA2MDIzMjM3MSwxNj
-Y4MTYxMDUzLDgxMTAzODU5OCwtMTE3NTE3NDE0OSwtMjEyMDI0
-Mzk1LC0xMzE5OTAzNzYzLDQyNDM5MzU4MywxODM4NTE2NzQ1XX
-0=
+eyJoaXN0b3J5IjpbNDA1MDYwNDEyLC0yOTI0MTY5MTYsLTc4OD
+UyOTE5LDE2MDEzNTkyMDgsNTM5NTkyMTc3LDEyMzc5MTk2MTEs
+MTUwMzc4NDc3NiwtMjczOTY1ODEzLC0xMDYwMjMyMzcxLDE2Nj
+gxNjEwNTMsODExMDM4NTk4LC0xMTc1MTc0MTQ5LC0yMTIwMjQz
+OTUsLTEzMTk5MDM3NjMsNDI0MzkzNTgzLDE4Mzg1MTY3NDVdfQ
+==
 -->
