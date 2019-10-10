@@ -111,16 +111,16 @@
 ALB, NLB, CLB
 || CLB | ALB|
 |--|--|--|
-|health check  | ping | listener 
-|backend | EC2 |
+|health check  | ping | listener |
+|backend | EC2 | target group |
 |源地址|开启proxy protocol|
 |ssl offload| https external, http internal |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ3MDQ5NDE3LDE1NDk0MzU3MzEsLTEzMj
-U4MzU3MDksLTE3NzQ5MzIzMjgsMTI2ODU5Nzc1OCwtMTEwODUx
-MDk5LDg4MDIxMjUyMSw0MDUwNjA0MTIsLTI5MjQxNjkxNiwtNz
-g4NTI5MTksMTYwMTM1OTIwOCw1Mzk1OTIxNzcsMTIzNzkxOTYx
-MSwxNTAzNzg0Nzc2LC0yNzM5NjU4MTMsLTEwNjAyMzIzNzEsMT
-Y2ODE2MTA1Myw4MTEwMzg1OTgsLTExNzUxNzQxNDksLTIxMjAy
-NDM5NV19
+eyJoaXN0b3J5IjpbLTE1NDU1NjgxMTUsMTU0OTQzNTczMSwtMT
+MyNTgzNTcwOSwtMTc3NDkzMjMyOCwxMjY4NTk3NzU4LC0xMTA4
+NTEwOTksODgwMjEyNTIxLDQwNTA2MDQxMiwtMjkyNDE2OTE2LC
+03ODg1MjkxOSwxNjAxMzU5MjA4LDUzOTU5MjE3NywxMjM3OTE5
+NjExLDE1MDM3ODQ3NzYsLTI3Mzk2NTgxMywtMTA2MDIzMjM3MS
+wxNjY4MTYxMDUzLDgxMTAzODU5OCwtMTE3NTE3NDE0OSwtMjEy
+MDI0Mzk1XX0=
 -->
