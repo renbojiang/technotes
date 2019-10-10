@@ -65,10 +65,12 @@
 - 申请但不使用要付费
 - Five allowed for AWS region
 
-
+Security Group
+- Rules are stateful (进查出不查)
+- Default （ju）
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjcyMjM2OTU0LDE1MDM3ODQ3NzYsLTI3Mz
-k2NTgxMywtMTA2MDIzMjM3MSwxNjY4MTYxMDUzLDgxMTAzODU5
-OCwtMTE3NTE3NDE0OSwtMjEyMDI0Mzk1LC0xMzE5OTAzNzYzLD
-QyNDM5MzU4MywxODM4NTE2NzQ1XX0=
+eyJoaXN0b3J5IjpbMTMxMDQyNzg1OCwxNTAzNzg0Nzc2LC0yNz
+M5NjU4MTMsLTEwNjAyMzIzNzEsMTY2ODE2MTA1Myw4MTEwMzg1
+OTgsLTExNzUxNzQxNDksLTIxMjAyNDM5NSwtMTMxOTkwMzc2My
+w0MjQzOTM1ODMsMTgzODUxNjc0NV19
 -->
