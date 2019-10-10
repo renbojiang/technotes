@@ -51,17 +51,18 @@
 - 在AZ级别scale in/out
 - 没有带宽限制。 AWS卖流量不卖带宽。
 
-ENI
+**Elastic Network Interface (ENI)**
 - security group
 - private IP
 - elastic ip 
 - mac address
 
-共有子网中的Instance，建议有两张ENI与其关联。
-一张EN 
+> 共有子网中的Instance，建议有两张ENI与其关联。 
+> 一个ENI负责业务（公网流量） 一个ENI负责管理 （SSH）
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1ODY3ODUzMCwtMjczOTY1ODEzLC0xMD
-YwMjMyMzcxLDE2NjgxNjEwNTMsODExMDM4NTk4LC0xMTc1MTc0
-MTQ5LC0yMTIwMjQzOTUsLTEzMTk5MDM3NjMsNDI0MzkzNTgzLD
-E4Mzg1MTY3NDVdfQ==
+eyJoaXN0b3J5IjpbLTIwNTEzNDU3ODMsLTI3Mzk2NTgxMywtMT
+A2MDIzMjM3MSwxNjY4MTYxMDUzLDgxMTAzODU5OCwtMTE3NTE3
+NDE0OSwtMjEyMDI0Mzk1LC0xMzE5OTAzNzYzLDQyNDM5MzU4My
+wxODM4NTE2NzQ1XX0=
 -->
