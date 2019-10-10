@@ -35,9 +35,11 @@ AWS里没有用broadcast，组播
 **Subnet**
 - AWS reserve file IP for each subnet
 - Use custom route tables for each subnet
-- 
+- public subnet should meeting 4 requirements
+	- 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzUxNzQxNDksLTIxMjAyNDM5NSwtMT
-MxOTkwMzc2Myw0MjQzOTM1ODMsMTgzODUxNjc0NV19
+eyJoaXN0b3J5IjpbLTE2MTI4MzQzNDYsLTExNzUxNzQxNDksLT
+IxMjAyNDM5NSwtMTMxOTkwMzc2Myw0MjQzOTM1ODMsMTgzODUx
+Njc0NV19
 -->
