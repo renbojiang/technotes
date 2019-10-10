@@ -108,9 +108,9 @@
 - 建立endpoint interface 后，可以直接通过local 路由来访问对应的服务。
 
 ## Load Balancing
-
+ALB, NL
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4Mjg5MTgwNjQsMTU0OTQzNTczMSwtMT
+eyJoaXN0b3J5IjpbLTE3MTc4NzI3NzMsMTU0OTQzNTczMSwtMT
 MyNTgzNTcwOSwtMTc3NDkzMjMyOCwxMjY4NTk3NzU4LC0xMTA4
 NTEwOTksODgwMjEyNTIxLDQwNTA2MDQxMiwtMjkyNDE2OTE2LC
 03ODg1MjkxOSwxNjAxMzU5MjA4LDUzOTU5MjE3NywxMjM3OTE5
