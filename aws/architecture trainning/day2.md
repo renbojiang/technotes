@@ -1,5 +1,5 @@
 # Day 2
-## Networking
+## Networking Part 1
 ### VPC
 **Usage Pattern**
 - Multi-VPC Pattern
@@ -77,11 +77,12 @@
 - stateless (in/out 都要检查), require explicit rules for both inbound and outbound traffic
 - 默认设置： allow 所有in/out bound
 
+## Networking Part 2
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4ODUyOTE5LDE2MDEzNTkyMDgsNTM5NT
-kyMTc3LDEyMzc5MTk2MTEsMTUwMzc4NDc3NiwtMjczOTY1ODEz
-LC0xMDYwMjMyMzcxLDE2NjgxNjEwNTMsODExMDM4NTk4LC0xMT
-c1MTc0MTQ5LC0yMTIwMjQzOTUsLTEzMTk5MDM3NjMsNDI0Mzkz
-NTgzLDE4Mzg1MTY3NDVdfQ==
+eyJoaXN0b3J5IjpbLTI5MjQxNjkxNiwtNzg4NTI5MTksMTYwMT
+M1OTIwOCw1Mzk1OTIxNzcsMTIzNzkxOTYxMSwxNTAzNzg0Nzc2
+LC0yNzM5NjU4MTMsLTEwNjAyMzIzNzEsMTY2ODE2MTA1Myw4MT
+EwMzg1OTgsLTExNzUxNzQxNDksLTIxMjAyNDM5NSwtMTMxOTkw
+Mzc2Myw0MjQzOTM1ODMsMTgzODUxNjc0NV19
 -->
