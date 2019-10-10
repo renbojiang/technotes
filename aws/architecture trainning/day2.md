@@ -47,11 +47,12 @@ NAT Gateway （NGW）
 - NAT Gateway： outbound public internet access。
 - 访问其他AWS service也会经过NGW。
 - 确保每个AZ有一个NGW
-- 
+- NAT instance (EC2) 已经被NAT Gateway取代。 
+- 在AZ级别scale in/out
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyMzMzNjU2NiwtMTA2MDIzMjM3MSwxNj
-Y4MTYxMDUzLDgxMTAzODU5OCwtMTE3NTE3NDE0OSwtMjEyMDI0
-Mzk1LC0xMzE5OTAzNzYzLDQyNDM5MzU4MywxODM4NTE2NzQ1XX
-0=
+eyJoaXN0b3J5IjpbOTA2NjU5ODUzLC0xMDYwMjMyMzcxLDE2Nj
+gxNjEwNTMsODExMDM4NTk4LC0xMTc1MTc0MTQ5LC0yMTIwMjQz
+OTUsLTEzMTk5MDM3NjMsNDI0MzkzNTgzLDE4Mzg1MTY3NDVdfQ
+==
 -->
