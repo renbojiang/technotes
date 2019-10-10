@@ -7,11 +7,11 @@
 
 **Limits**
 - 5 VPCs per region per account
-- CIDR: /28 (255) ~ /16 (65535)
+- CIDR: /24 (255) ~ /16 (65535)
 
 **VPC Plus**
 - 可追加4个网段
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTAzMDc3MjUsMTgzODUxNjc0NV19
+eyJoaXN0b3J5IjpbNDI0MzkzNTgzLDE4Mzg1MTY3NDVdfQ==
 -->
