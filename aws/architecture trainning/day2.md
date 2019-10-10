@@ -50,11 +50,15 @@
 - NAT instance (EC2) 已经被NAT Gateway取代。 
 - 在AZ级别scale in/out
 - 没有带宽限制。 AWS卖流量不卖带宽。
--
+
+ENI
+- security group
+- private/public IP
+- ela
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQ2MTk0MDIxLC0yNzM5NjU4MTMsLTEwNj
-AyMzIzNzEsMTY2ODE2MTA1Myw4MTEwMzg1OTgsLTExNzUxNzQx
-NDksLTIxMjAyNDM5NSwtMTMxOTkwMzc2Myw0MjQzOTM1ODMsMT
-gzODUxNjc0NV19
+eyJoaXN0b3J5IjpbMTg1ODI0MTc4NCwtMjczOTY1ODEzLC0xMD
+YwMjMyMzcxLDE2NjgxNjEwNTMsODExMDM4NTk4LC0xMTc1MTc0
+MTQ5LC0yMTIwMjQzOTUsLTEzMTk5MDM3NjMsNDI0MzkzNTgzLD
+E4Mzg1MTY3NDVdfQ==
 -->
