@@ -13,6 +13,7 @@
 - 可追加4个网段
 
 AWS里没有用broadcast，组播
+用R53解决On-premise 服务器与VPC内部server的通信
 
 10.10.0.0 / 16
 - .2: DNS
@@ -20,8 +21,9 @@ AWS里没有用broadcast，组播
 	- 1.0: NV
 	- 1.1: Gateway
 	- 1.2: DNS relay
-	- 1.3: 
+	- 1.3: reserved
+	- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQ1Mzg5NjUxLC0xMzE5OTAzNzYzLDQyND
+eyJoaXN0b3J5IjpbLTk3MzcyMTQ5LC0xMzE5OTAzNzYzLDQyND
 M5MzU4MywxODM4NTE2NzQ1XX0=
 -->
