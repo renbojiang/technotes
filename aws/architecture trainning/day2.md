@@ -108,7 +108,6 @@
 - 建立endpoint interface 后，可以直接通过local 路由来访问对应的服务。
 
 ## Load Balancing
-ALB, NLB, CLB
 || CLB | ALB| NLB
 |--|--|--|--|
 |health check  | ping | listener |
@@ -119,8 +118,9 @@ ALB, NLB, CLB
 |应用分发 | |注册的应用 | static 目标ip |
 
 相同层面不要有异构
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzOTI2MDc1OSwtMTI1MDU5OTM2MiwtMT
+eyJoaXN0b3J5IjpbMTUxMTYyMjIyMywtMTI1MDU5OTM2MiwtMT
 U0NTU2ODExNSwxNTQ5NDM1NzMxLC0xMzI1ODM1NzA5LC0xNzc0
 OTMyMzI4LDEyNjg1OTc3NTgsLTExMDg1MTA5OSw4ODAyMTI1Mj
 EsNDA1MDYwNDEyLC0yOTI0MTY5MTYsLTc4ODUyOTE5LDE2MDEz
