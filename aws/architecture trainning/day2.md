@@ -57,9 +57,10 @@ ENI
 - elastic ip 
 - mac address
 
-
+共有子网中的Instance，建议有两张ENI与其关联。
+一张EN 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0ODg3Mzk2OCwtMjczOTY1ODEzLC0xMD
+eyJoaXN0b3J5IjpbMTc1ODY3ODUzMCwtMjczOTY1ODEzLC0xMD
 YwMjMyMzcxLDE2NjgxNjEwNTMsODExMDM4NTk4LC0xMTc1MTc0
 MTQ5LC0yMTIwMjQzOTUsLTEzMTk5MDM3NjMsNDI0MzkzNTgzLD
 E4Mzg1MTY3NDVdfQ==
