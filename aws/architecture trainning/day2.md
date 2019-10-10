@@ -67,9 +67,10 @@
 
 Security Group
 - Rules are stateful (进查出不查)
-- Default （ju）
+- Default （拒绝所有in，允许所有out，所以Inbound是白名单）
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxMDQyNzg1OCwxNTAzNzg0Nzc2LC0yNz
+eyJoaXN0b3J5IjpbMTIzNzkxOTYxMSwxNTAzNzg0Nzc2LC0yNz
 M5NjU4MTMsLTEwNjAyMzIzNzEsMTY2ODE2MTA1Myw4MTEwMzg1
 OTgsLTExNzUxNzQxNDksLTIxMjAyNDM5NSwtMTMxOTkwMzc2My
 w0MjQzOTM1ODMsMTgzODUxNjc0NV19
