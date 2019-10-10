@@ -75,10 +75,12 @@
 
 **Access Control List (ACLs)**
 - stateless (in/out 都要检查), require explicit rules for both inbound and outbound traffic
+- 默认设置： allow 所有in/out bound
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM5NTkyMTc3LDEyMzc5MTk2MTEsMTUwMz
-c4NDc3NiwtMjczOTY1ODEzLC0xMDYwMjMyMzcxLDE2NjgxNjEw
-NTMsODExMDM4NTk4LC0xMTc1MTc0MTQ5LC0yMTIwMjQzOTUsLT
-EzMTk5MDM3NjMsNDI0MzkzNTgzLDE4Mzg1MTY3NDVdfQ==
+eyJoaXN0b3J5IjpbMTYwMTM1OTIwOCw1Mzk1OTIxNzcsMTIzNz
+kxOTYxMSwxNTAzNzg0Nzc2LC0yNzM5NjU4MTMsLTEwNjAyMzIz
+NzEsMTY2ODE2MTA1Myw4MTEwMzg1OTgsLTExNzUxNzQxNDksLT
+IxMjAyNDM5NSwtMTMxOTkwMzc2Myw0MjQzOTM1ODMsMTgzODUx
+Njc0NV19
 -->
