@@ -120,9 +120,11 @@
 相同层面不要有异构
 流量从ELB进，从NGW回
 
+## Route 53
+Cloud DNS service (100% availability)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1NzY3MDMzNywtMzE5ODA2MzgzLDE1MT
+eyJoaXN0b3J5IjpbMTE3MzAwMDAyMywtMzE5ODA2MzgzLDE1MT
 E2MjIyMjMsLTEyNTA1OTkzNjIsLTE1NDU1NjgxMTUsMTU0OTQz
 NTczMSwtMTMyNTgzNTcwOSwtMTc3NDkzMjMyOCwxMjY4NTk3Nz
 U4LC0xMTA4NTEwOTksODgwMjEyNTIxLDQwNTA2MDQxMiwtMjky
