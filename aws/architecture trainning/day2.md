@@ -20,7 +20,6 @@
 
 
 **TIPS**
-
  - AWS里没有用broadcast，组播 
  - 用R53解决On-premise 服务器与VPC内部server的通信 default
  - 路由表不建议在生产环境中使用
@@ -42,12 +41,13 @@
 	- Public IP
 	- Public Route Table (0.0.0.0/0)
 	- Allow 0.0.0.0/0
-- NAT Gateway 是在public subnet的，具有public ip。outbound public internet access
+- NAT Gateway 是在public subnet的，具有public ip （Elastic IP）。
+- NAT Gateway： outbound public internet access
 - 
 - 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQ1OTI0MTA2LDE2NjgxNjEwNTMsODExMD
-M4NTk4LC0xMTc1MTc0MTQ5LC0yMTIwMjQzOTUsLTEzMTk5MDM3
-NjMsNDI0MzkzNTgzLDE4Mzg1MTY3NDVdfQ==
+eyJoaXN0b3J5IjpbLTEwNjAyMzIzNzEsMTY2ODE2MTA1Myw4MT
+EwMzg1OTgsLTExNzUxNzQxNDksLTIxMjAyNDM5NSwtMTMxOTkw
+Mzc2Myw0MjQzOTM1ODMsMTgzODUxNjc0NV19
 -->
