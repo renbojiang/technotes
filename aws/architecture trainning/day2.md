@@ -25,9 +25,11 @@ AWS里没有用broadcast，组播
 	- 1.2: DNS relay
 	- 1.3: reserved
 
-Subnet
-AWS reserve
+**Subnet**
+- AWS reserve file IP for each subnet
+- 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2MTQyNzQ0MywtMTMxOTkwMzc2Myw0Mj
-QzOTM1ODMsMTgzODUxNjc0NV19
+eyJoaXN0b3J5IjpbMzI4MzM3MDU1LC0xMzE5OTAzNzYzLDQyND
+M5MzU4MywxODM4NTE2NzQ1XX0=
 -->
