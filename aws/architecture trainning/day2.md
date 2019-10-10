@@ -68,10 +68,11 @@
 Security Group
 - Rules are stateful (进查出不查)
 - Default （拒绝所有in，允许所有out，所以Inbound是白名单）
-- 
+- Inbound rule 关联另一个security group可以简化配置
+> 不要把Security Group的权限设置过大，最好mei
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzNzkxOTYxMSwxNTAzNzg0Nzc2LC0yNz
-M5NjU4MTMsLTEwNjAyMzIzNzEsMTY2ODE2MTA1Myw4MTEwMzg1
-OTgsLTExNzUxNzQxNDksLTIxMjAyNDM5NSwtMTMxOTkwMzc2My
-w0MjQzOTM1ODMsMTgzODUxNjc0NV19
+eyJoaXN0b3J5IjpbLTY3MzkyODM5NSwxMjM3OTE5NjExLDE1MD
+M3ODQ3NzYsLTI3Mzk2NTgxMywtMTA2MDIzMjM3MSwxNjY4MTYx
+MDUzLDgxMTAzODU5OCwtMTE3NTE3NDE0OSwtMjEyMDI0Mzk1LC
+0xMzE5OTAzNzYzLDQyNDM5MzU4MywxODM4NTE2NzQ1XX0=
 -->
