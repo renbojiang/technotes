@@ -101,7 +101,7 @@
 - RI只是购买方式
 - 真正预留资源是RC
 
-endpoint interface
+**Endpoint Interface**
 - 至于dynamo db和s3是endpoint Gateway，其他都是interface
 - 可以应用security group
 - 会和ENI link起来
@@ -109,7 +109,7 @@ endpoint interface
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwMDUwNzY5MywtMTMyNTgzNTcwOSwtMT
+eyJoaXN0b3J5IjpbMTU0OTQzNTczMSwtMTMyNTgzNTcwOSwtMT
 c3NDkzMjMyOCwxMjY4NTk3NzU4LC0xMTA4NTEwOTksODgwMjEy
 NTIxLDQwNTA2MDQxMiwtMjkyNDE2OTE2LC03ODg1MjkxOSwxNj
 AxMzU5MjA4LDUzOTU5MjE3NywxMjM3OTE5NjExLDE1MDM3ODQ3
