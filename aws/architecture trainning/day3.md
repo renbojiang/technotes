@@ -26,11 +26,14 @@ resource 按照定义顺序来创建
 ### System Manager
 ### OpsWorks
 ### Elastic Beanstalk
+beanstalk 是学习cloud formation的最好方式
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxOTY2MzE4NCwtNzYwMjE0NzE0LC0xMz
-UxNDEzNTI5LC0xNDAyMTU4MzgzLDEwOTIyNDY2NzUsLTI4Mzk2
-ODExMyw2NjUyMjk0NjcsMTc4MTQ3Njc0NCwtNzIyNzU5MTk2LD
-Y4NjgxNzgzNiw0NDE5NDE1NiwtMjE0MDU2NjI3NV19
+eyJoaXN0b3J5IjpbODg4Mjg5MTUsMjAxOTY2MzE4NCwtNzYwMj
+E0NzE0LC0xMzUxNDEzNTI5LC0xNDAyMTU4MzgzLDEwOTIyNDY2
+NzUsLTI4Mzk2ODExMyw2NjUyMjk0NjcsMTc4MTQ3Njc0NCwtNz
+IyNzU5MTk2LDY4NjgxNzgzNiw0NDE5NDE1NiwtMjE0MDU2NjI3
+NV19
 -->
