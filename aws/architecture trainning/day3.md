@@ -28,12 +28,14 @@ resource 按照定义顺序来创建
 ### Elastic Beanstalk
 beanstalk 是学习cloud formation的最好方式
 
+三明治安全模型
+R53 -> WAF -> CloudFormation -> ELB -> WAF( third party) -> ELB -> Web App
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODg4Mjg5MTUsMjAxOTY2MzE4NCwtNzYwMj
-E0NzE0LC0xMzUxNDEzNTI5LC0xNDAyMTU4MzgzLDEwOTIyNDY2
-NzUsLTI4Mzk2ODExMyw2NjUyMjk0NjcsMTc4MTQ3Njc0NCwtNz
-IyNzU5MTk2LDY4NjgxNzgzNiw0NDE5NDE1NiwtMjE0MDU2NjI3
-NV19
+eyJoaXN0b3J5IjpbMjcxMjc4MDE5LDg4ODI4OTE1LDIwMTk2Nj
+MxODQsLTc2MDIxNDcxNCwtMTM1MTQxMzUyOSwtMTQwMjE1ODM4
+MywxMDkyMjQ2Njc1LC0yODM5NjgxMTMsNjY1MjI5NDY3LDE3OD
+E0NzY3NDQsLTcyMjc1OTE5Niw2ODY4MTc4MzYsNDQxOTQxNTYs
+LTIxNDA1NjYyNzVdfQ==
 -->
