@@ -19,10 +19,12 @@ http://169.254.169.254/latest/meta-data/iam/security-credentials/...
 - condition
 - depend on: 非强制依赖
 - ref：强制依赖
+- re
 resource 按照定义顺序来创建
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDIxNTgzODMsMTA5MjI0NjY3NSwtMj
-gzOTY4MTEzLDY2NTIyOTQ2NywxNzgxNDc2NzQ0LC03MjI3NTkx
-OTYsNjg2ODE3ODM2LDQ0MTk0MTU2LC0yMTQwNTY2Mjc1XX0=
+eyJoaXN0b3J5IjpbMTk1MTQ5MzYyNSwtMTQwMjE1ODM4MywxMD
+kyMjQ2Njc1LC0yODM5NjgxMTMsNjY1MjI5NDY3LDE3ODE0NzY3
+NDQsLTcyMjc1OTE5Niw2ODY4MTc4MzYsNDQxOTQxNTYsLTIxND
+A1NjYyNzVdfQ==
 -->
