@@ -33,14 +33,17 @@ R53 -> WAF -> CloudFormation -> ELB -> WAF( third party) -> ELB -> Web App
 
 
 SQS
+主要用来作蓄洪
 AutoScaling 监控的是queue的深度
 如果消息过大，建议放进s3，然后发送消息到SQS
+SWF可以做消息更精细的控制
+SQS可以配合SNS做多播
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxMDM5NTMxMSwyNzEyNzgwMTksODg4Mj
-g5MTUsMjAxOTY2MzE4NCwtNzYwMjE0NzE0LC0xMzUxNDEzNTI5
-LC0xNDAyMTU4MzgzLDEwOTIyNDY2NzUsLTI4Mzk2ODExMyw2Nj
-UyMjk0NjcsMTc4MTQ3Njc0NCwtNzIyNzU5MTk2LDY4NjgxNzgz
-Niw0NDE5NDE1NiwtMjE0MDU2NjI3NV19
+eyJoaXN0b3J5IjpbLTE1MzUyNTk0MzEsLTkxMDM5NTMxMSwyNz
+EyNzgwMTksODg4Mjg5MTUsMjAxOTY2MzE4NCwtNzYwMjE0NzE0
+LC0xMzUxNDEzNTI5LC0xNDAyMTU4MzgzLDEwOTIyNDY2NzUsLT
+I4Mzk2ODExMyw2NjUyMjk0NjcsMTc4MTQ3Njc0NCwtNzIyNzU5
+MTk2LDY4NjgxNzgzNiw0NDE5NDE1NiwtMjE0MDU2NjI3NV19
 -->
