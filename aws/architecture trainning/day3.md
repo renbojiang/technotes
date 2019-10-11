@@ -20,11 +20,15 @@ http://169.254.169.254/latest/meta-data/iam/security-credentials/...
 - depend on: 非强制依赖
 - ref：强制依赖
 - retain
+
 resource 按照定义顺序来创建
 
+### System Manager
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTE0MTM1MjksLTE0MDIxNTgzODMsMT
-A5MjI0NjY3NSwtMjgzOTY4MTEzLDY2NTIyOTQ2NywxNzgxNDc2
-NzQ0LC03MjI3NTkxOTYsNjg2ODE3ODM2LDQ0MTk0MTU2LC0yMT
-QwNTY2Mjc1XX0=
+eyJoaXN0b3J5IjpbLTc2MDIxNDcxNCwtMTM1MTQxMzUyOSwtMT
+QwMjE1ODM4MywxMDkyMjQ2Njc1LC0yODM5NjgxMTMsNjY1MjI5
+NDY3LDE3ODE0NzY3NDQsLTcyMjc1OTE5Niw2ODY4MTc4MzYsND
+QxOTQxNTYsLTIxNDA1NjYyNzVdfQ==
 -->
