@@ -32,10 +32,15 @@ beanstalk 是学习cloud formation的最好方式
 R53 -> WAF -> CloudFormation -> ELB -> WAF( third party) -> ELB -> Web App
 
 
+SQS
+AutoScaling 监控的是queue的深度
+如果消息过大，建议放进s3，然后发送消息到SQS
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjcxMjc4MDE5LDg4ODI4OTE1LDIwMTk2Nj
-MxODQsLTc2MDIxNDcxNCwtMTM1MTQxMzUyOSwtMTQwMjE1ODM4
-MywxMDkyMjQ2Njc1LC0yODM5NjgxMTMsNjY1MjI5NDY3LDE3OD
-E0NzY3NDQsLTcyMjc1OTE5Niw2ODY4MTc4MzYsNDQxOTQxNTYs
-LTIxNDA1NjYyNzVdfQ==
+eyJoaXN0b3J5IjpbLTkxMDM5NTMxMSwyNzEyNzgwMTksODg4Mj
+g5MTUsMjAxOTY2MzE4NCwtNzYwMjE0NzE0LC0xMzUxNDEzNTI5
+LC0xNDAyMTU4MzgzLDEwOTIyNDY2NzUsLTI4Mzk2ODExMyw2Nj
+UyMjk0NjcsMTc4MTQ3Njc0NCwtNzIyNzU5MTk2LDY4NjgxNzgz
+Niw0NDE5NDE1NiwtMjE0MDU2NjI3NV19
 -->
