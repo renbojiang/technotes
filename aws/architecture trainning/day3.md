@@ -24,11 +24,12 @@ http://169.254.169.254/latest/meta-data/iam/security-credentials/...
 resource 按照定义顺序来创建
 
 ### System Manager
+### OpsWorks
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2MDIxNDcxNCwtMTM1MTQxMzUyOSwtMT
-QwMjE1ODM4MywxMDkyMjQ2Njc1LC0yODM5NjgxMTMsNjY1MjI5
-NDY3LDE3ODE0NzY3NDQsLTcyMjc1OTE5Niw2ODY4MTc4MzYsND
-QxOTQxNTYsLTIxNDA1NjYyNzVdfQ==
+eyJoaXN0b3J5IjpbMjAzMzEwMDc0MywtNzYwMjE0NzE0LC0xMz
+UxNDEzNTI5LC0xNDAyMTU4MzgzLDEwOTIyNDY2NzUsLTI4Mzk2
+ODExMyw2NjUyMjk0NjcsMTc4MTQ3Njc0NCwtNzIyNzU5MTk2LD
+Y4NjgxNzgzNiw0NDE5NDE1NiwtMjE0MDU2NjI3NV19
 -->
